@@ -2,3 +2,25 @@ baseURL: ""
 languageCode: en-us
 title: XanderGrab
 theme: Portfolio-PaperMod-theme
+
+params:
+  defaultTheme: dark
+
+  homeInfoParams:
+    Title: Hello there! 👋 I'm Xander (aka XanderGrab)
+    Content: I'm a Game Developer/Designer and all around Games Hobbyist.
+
+  socialIcons:
+    - name: github
+    - url: "https://github.com/XanGrab"
+    - name: linkedin
+    - url: "https://www.linkedin.com/in/xander-grabowski-8164481a1"
+    - name: itchio
+    - url: "https://xanxg.itch.io/"
+
+  assets:
+    favicon: "/assets/favicon/favicon.ico"
+    favicon16x16: "/assets/favicon/favicon-16x16.png"
+    favicon32x32: "/assets/favicon/favicon-32x32.png"
+    apple_touch_icon: "/assets/favicon/apple-touch-icon.png"
+    # safari_pinned_tab: "assets/favicon"
