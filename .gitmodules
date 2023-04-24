@@ -1,3 +1,6 @@
 [submodule "themes/hugo-PaperMod"]
 	path = themes/hugo-PaperMod
 	url = https://github.com/XanGrab/hugo-PaperMod.git
+[submodule "themes/Portfolio-PaperMod-theme"]
+	path = themes/Portfolio-PaperMod-theme
+	url = https://github.com/XanGrab/Portfolio-PaperMod-theme.git
