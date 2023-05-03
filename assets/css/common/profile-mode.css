@@ -21,17 +21,27 @@
   border-radius: 50%;
 }
 
-#cross-fade-profile {
+.cross-fade-profile {
   position: relative;
+  display: flex;
+  left: 50%;
+  transform: translateX(-50%);
+
+  width: 240px;
+  height: 240px;
 }
 
 .img1 {
-  position: relative;
+  position: absolute;
+  top: 0;
+  left: 0;
   z-index: 1;
 }
 
 .img2 {
   position: absolute;
+  top: 0;
+  left: 0;
   opacity: 0.2;
   z-index: 2;
 }
