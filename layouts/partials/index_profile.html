@@ -28,9 +28,14 @@
                 height="{{ .imageHeight | default 150 }}" width="{{ .imageWidth | default 150 }}" />
         {{- else }}
         <div class="cross-fade-profile">
-            <img draggable="false" class="img1" src="{{ (index .imageUrls 0) | absURL }}" alt="{{ .imageTitle | default "profile image" }}" title="{{ .imageTitle }}"
+            <script>
+                const fadeImage = function (e) {
+                    e.classList.toggle("transparent");
+                }
+            </script>
+            <img draggable="false" src="{{ (index .imageUrls 0) | absURL }}" alt="{{ .imageTitle | default "profile image" }}" title="{{ .imageTitle }}"
                 height="{{ .imageHeight | default 150 }}" width="{{ .imageWidth | default 150 }}" />
-            <img draggable="false" class="img2" src="{{ (index .imageUrls 1) | absURL }}" alt="{{ .imageTitle | default "profile image" }}" title="{{ .imageTitle }}"
+            <img draggable="false" src="{{ (index .imageUrls 1) | absURL }}" alt="{{ .imageTitle | default "profile image" }}" title="{{ .imageTitle }}" onclick="fadeImage(this)"
                 height="{{ .imageHeight | default 150 }}" width="{{ .imageWidth | default 150 }}" />
         </div>
         {{- end }}

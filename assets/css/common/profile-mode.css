@@ -31,19 +31,18 @@
   height: 240px;
 }
 
-.img1 {
+.cross-fade-profile img {
   position: absolute;
   top: 0;
   left: 0;
-  z-index: 1;
+  -webkit-transition: opacity 1s ease-in-out;
+  -moz-transition: opacity 1s ease-in-out;
+  -o-transition: opacity 1s ease-in-out;
+  transition: opacity 1s ease-in-out;
 }
 
-.img2 {
-  position: absolute;
-  top: 0;
-  left: 0;
-  opacity: 0.2;
-  z-index: 2;
+.cross-fade-profile img.transparent {
+  opacity: 0;
 }
 
 .buttons {

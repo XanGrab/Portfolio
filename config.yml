@@ -11,7 +11,8 @@ params:
     title: Hello there! 👋 I'm Xander
     subtitle: "(aka XanderGrab) I'm a Game Developer and Designer and all around Games Hobbyist."
     # imageUrl: "/assets/icons/FancyIcon.png"
-    imageUrls: ["/assets/icons/FancyIcon.png", "/assets/icons/2022Icon.png"]
+    imageUrls:
+      ["/assets/icons/ProfessionalPhoto.JPG", "/assets/icons/FancyIcon.png"]
     imageTitle: "My Icon"
     imageWidth: 240 # custom size
     imageHeight: 240 # custom size
