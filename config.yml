@@ -6,9 +6,14 @@ theme: Portfolio-PaperMod-theme
 params:
   defaultTheme: dark
 
-  homeInfoParams:
-    Title: Hello there! 👋 I'm Xander (aka XanderGrab)
-    Content: I'm a Game Developer/Designer and all around Games Hobbyist.
+  profileMode:
+    enabled: true
+    title: Hello there! 👋 I'm Xander
+    subtitle: "(aka XanderGrab) I'm a Game Developer/Designer and all around Games Hobbyist."
+    imageUrl: "/assets/icons/FancyIcon.png"
+    imageTitle: "My Icon"
+    imageWidth: 240 # custom size
+    imageHeight: 240 # custom size
 
   socialIcons:
     - name: github
@@ -23,4 +28,3 @@ params:
     favicon16x16: "/assets/favicon/favicon-16x16.png"
     favicon32x32: "/assets/favicon/favicon-32x32.png"
     apple_touch_icon: "/assets/favicon/apple-touch-icon.png"
-    # safari_pinned_tab: "assets/favicon"
