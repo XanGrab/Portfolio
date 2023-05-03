@@ -9,8 +9,9 @@ params:
   profileMode:
     enabled: true
     title: Hello there! 👋 I'm Xander
-    subtitle: "(aka XanderGrab) I'm a Game Developer/Designer and all around Games Hobbyist."
-    imageUrl: "/assets/icons/FancyIcon.png"
+    subtitle: "(aka XanderGrab) I'm a Game Developer and Designer and all around Games Hobbyist."
+    # imageUrl: "/assets/icons/FancyIcon.png"
+    imageUrls: ["/assets/icons/FancyIcon.png", "/assets/icons/2022Icon.png"]
     imageTitle: "My Icon"
     imageWidth: 240 # custom size
     imageHeight: 240 # custom size
@@ -28,3 +29,10 @@ params:
     favicon16x16: "/assets/favicon/favicon-16x16.png"
     favicon32x32: "/assets/favicon/favicon-32x32.png"
     apple_touch_icon: "/assets/favicon/apple-touch-icon.png"
+
+menu:
+  main:
+    - identifier: Resume
+      name: CV
+      url: https://drive.google.com/uc?export=download&id=1ozzjEg_XSyjuWFV-zLX0xJb4kVkKlsV8
+      weight: 30
