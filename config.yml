@@ -9,7 +9,7 @@ params:
   profileMode:
     enabled: true
     title: Hello there! 👋 I'm Xander
-    subtitle: "(aka XanderGrab) I'm a Game Developer and Designer and all around Games Hobbyist."
+    subtitle: "(aka XanderGrab) I'm a Game Developer and Designer as well as an all-around Games Hobbyist."
     # imageUrl: "/assets/icons/FancyIcon.png"
     imageUrls:
       ["/assets/icons/ProfessionalPhoto.JPG", "/assets/icons/FancyIcon.png"]
