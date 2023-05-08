@@ -26,6 +26,9 @@ params:
     - name: itchio
       url: "https://xanxg.itch.io/"
 
+    - name: email
+      url: "mailto:xander@xangrab.com"
+
   assets:
     favicon: "assets/favicon/favicon.ico"
     favicon16x16: "assets/favicon/favicon-16x16.png"
@@ -37,4 +40,8 @@ menu:
     - identifier: Resume
       name: CV
       url: https://drive.google.com/uc?export=download&id=1ozzjEg_XSyjuWFV-zLX0xJb4kVkKlsV8
+      weight: 30
+    - contact: Contact
+      name: Contact
+      url: "mailto:xander@xangrab.com"
       weight: 30
