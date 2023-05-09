@@ -3,6 +3,12 @@ languageCode: en-us
 title: XanderGrab
 theme: Portfolio-PaperMod-theme
 
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
 params:
   defaultTheme: dark
 
@@ -40,8 +46,12 @@ menu:
     - identifier: Resume
       name: CV
       url: https://drive.google.com/uc?export=download&id=1ozzjEg_XSyjuWFV-zLX0xJb4kVkKlsV8
-      weight: 30
+      weight: 40
     - contact: Contact
       name: Contact
-      url: "mailto:xander@xangrab.com"
+      url: /contact/
       weight: 30
+    - contact: Search
+      name: Search
+      url: /search/
+      weight: 20
