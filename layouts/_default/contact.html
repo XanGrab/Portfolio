@@ -10,10 +10,11 @@
 </header>
 
 <script>
-  const sendMessage = function () {
+  const sendMessage = async function (e) {
+    e.preventDefault();
+
     // using Twilio SendGrid's v3 Node.js Library
     // https://github.com/sendgrid/sendgrid-nodejs
-    javascript;
     const sgMail = require("@sendgrid/mail");
     sgMail.setApiKey(process.env.SENDGRID_API_KEY);
     const msg = {
@@ -24,18 +25,24 @@
       // html: "<strong>and easy to do anywhere, even with Node.js</strong>",
     };
 
-    sgMail
-      .send(msg)
-      .then(() => {
+    try {
+      await sgMail.send(msg).then((result) => {
         console.log("Email sent");
-      })
-      .catch((error) => {
-        console.error(error);
+        response.setStatusCode(200);
+        response.setBody({ success: true });
       });
+    } catch (error) {
+      console.error(error);
+    }
   };
 </script>
 <div id="searchbox">
-  <form action="mailto:xander@xangrab.com" method="get" enctype="text/plain">
+  <form
+    action="return sendMessage(this)"
+    method="POST"
+    id="contact-form"
+    enctype="text/plain"
+  >
     Subject:<br />
     <input type="text" name="subject" placeholder="Your Name" /><br />
     Email:<br />
@@ -48,7 +55,7 @@
       placeholder="Your Message"
     ></textarea
     ><br />
-    <button type="submit" class="Send">Send</button>
+    <button type="submit" name="sendButton">Send</button>
   </form>
 </div>
 
