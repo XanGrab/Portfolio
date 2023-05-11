@@ -20,5 +20,8 @@
   "homepage": "https://github.com/XanGrab/Portfolio#readme",
   "devDependencies": {
     "npm-check": "^6.0.1"
+  },
+  "dependencies": {
+    "@sendgrid/mail": "^7.7.0"
   }
 }

@@ -9,6 +9,31 @@
   {{- end }}
 </header>
 
+<script>
+  const sendMessage = function () {
+    // using Twilio SendGrid's v3 Node.js Library
+    // https://github.com/sendgrid/sendgrid-nodejs
+    javascript;
+    const sgMail = require("@sendgrid/mail");
+    sgMail.setApiKey(process.env.SENDGRID_API_KEY);
+    const msg = {
+      to: "xander@xandergrab.com",
+      from: document.getElementById("email").value,
+      subject: document.getElementById("subject").value,
+      text: document.getElementById("body").value,
+      // html: "<strong>and easy to do anywhere, even with Node.js</strong>",
+    };
+
+    sgMail
+      .send(msg)
+      .then(() => {
+        console.log("Email sent");
+      })
+      .catch((error) => {
+        console.error(error);
+      });
+  };
+</script>
 <div id="searchbox">
   <form action="mailto:xander@xangrab.com" method="get" enctype="text/plain">
     Subject:<br />
