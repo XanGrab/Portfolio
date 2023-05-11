@@ -1,14 +1,7 @@
 {{- define "main" }}
 
 <header class="page-header">
-  <h1>
-    {{- (printf "%s&nbsp;" .Title ) | htmlUnescape -}}
-    <!-- <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none"
-            stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-            <circle cx="11" cy="11" r="8"></circle>
-            <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
-        </svg> -->
-  </h1>
+  <h1>{{- (printf "%s&nbsp;" .Title ) | htmlUnescape -}}</h1>
   {{- if .Description }}
   <div class="post-description">{{ .Description }}</div>
   {{- end }} {{- if not (.Param "hideMeta") }}
@@ -30,8 +23,7 @@
       placeholder="Your Message"
     ></textarea
     ><br />
-    <input type="submit" value="Send" />
-    <!-- <button type="submit" class="Send" onclick="sendMail()">Send</button> -->
+    <button type="submit" class="Send">Send</button>
   </form>
 </div>
 
