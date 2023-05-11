@@ -82,6 +82,14 @@ body:not(.dark) #sun {
   margin: auto 4px;
 }
 
+.logo-switches button {
+  padding: 0;
+  font: inherit;
+  font-size: inherit;
+  background: 0 0;
+  border: 0;
+}
+
 .lang-switch {
   display: flex;
   flex-wrap: inherit;
