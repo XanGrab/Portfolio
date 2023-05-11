@@ -1,0 +1,24 @@
+{
+  "name": "portfolio",
+  "version": "0.1.0",
+  "description": "personal portfolio for xandergrab.com",
+  "main": "index.js",
+  "scripts": {
+    "dev": "hugo serve",
+    "build": "hugo",
+    "npm-check": "npm-check -u"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XanGrab/Portfolio.git"
+  },
+  "author": "Xander Grab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XanGrab/Portfolio/issues"
+  },
+  "homepage": "https://github.com/XanGrab/Portfolio#readme",
+  "devDependencies": {
+    "npm-check": "^6.0.1"
+  }
+}
