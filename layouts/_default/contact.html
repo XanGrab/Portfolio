@@ -10,26 +10,29 @@
 </header>
 
 <script>
-  const sendMessage = async function (e) {
+  export const sendMessage = async function (e) {
     e.preventDefault();
-
     // using Twilio SendGrid's v3 Node.js Library
     // https://github.com/sendgrid/sendgrid-nodejs
     const sgMail = require("@sendgrid/mail");
+
     sgMail.setApiKey(process.env.SENDGRID_API_KEY);
     const msg = {
-      to: "xander@xandergrab.com",
-      from: document.getElementById("email").value,
-      subject: document.getElementById("subject").value,
-      text: document.getElementById("body").value,
-      // html: "<strong>and easy to do anywhere, even with Node.js</strong>",
+      to: process.env.TO_EMAIL_ADDRESS,
+      from: { email: process.env.FROM_EMAIL_ADDRESS, name: "Contact Form" },
+      replyTo: document.getElementById("email").value,
+      subject: `[Contact Form] ${document.getElementById("subject").value}`,
+      text: `From ${document.getElementById("email").value}:\n\n${
+        document.getElementById("body").value
+      }`,
     };
 
     try {
       await sgMail.send(msg).then((result) => {
-        console.log("Email sent");
+        console.log("DEBUG [contact.html] Email sent");
         response.setStatusCode(200);
         response.setBody({ success: true });
+        return callback(null, response);
       });
     } catch (error) {
       console.error(error);
@@ -45,7 +48,7 @@
   >
     Subject:<br />
     <input type="text" name="subject" placeholder="Your Name" /><br />
-    Email:<br />
+    Reply-To Email:<br />
     <input type="email" name="email" placeholder="Your Email" /><br />
     Message:<br />
     <textarea
