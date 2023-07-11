@@ -10,16 +10,16 @@
 </header>
 
 <script>
-  export const sendMessage = async function (e) {
+  export const sendMessage = async function (ctx, event, callback) {
     e.preventDefault();
     // using Twilio SendGrid's v3 Node.js Library
     // https://github.com/sendgrid/sendgrid-nodejs
     const sgMail = require("@sendgrid/mail");
 
-    sgMail.setApiKey(process.env.SENDGRID_API_KEY);
+    sgMail.setApiKey(ctx.SENDGRID_API_KEY);
     const msg = {
-      to: process.env.TO_EMAIL_ADDRESS,
-      from: { email: process.env.FROM_EMAIL_ADDRESS, name: "Contact Form" },
+      to: ctx.TO_EMAIL_ADDRESS,
+      from: { email: ctx.FROM_EMAIL_ADDRESS, name: "Contact Form" },
       replyTo: document.getElementById("email").value,
       subject: `[Contact Form] ${document.getElementById("subject").value}`,
       text: `From ${document.getElementById("email").value}:\n\n${
@@ -41,7 +41,7 @@
 </script>
 <div id="searchbox">
   <form
-    action="return sendMessage(this)"
+    action="send-message"
     method="POST"
     id="contact-form"
     enctype="text/plain"
