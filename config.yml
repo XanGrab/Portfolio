@@ -45,7 +45,7 @@ menu:
   main:
     - identifier: Resume
       name: CV
-      url: https://drive.google.com/uc?export=download&id=1ozzjEg_XSyjuWFV-zLX0xJb4kVkKlsV8
+      url: /assets/docs/Grabowski_CV.pdf
       weight: 40
     - contact: Contact
       name: Contact
