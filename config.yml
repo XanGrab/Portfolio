@@ -51,7 +51,7 @@ menu:
       name: Contact
       url: /contact/
       weight: 30
-    - contact: Search
-      name: Search
-      url: /search/
-      weight: 20
+    # - contact: Search
+    #   name: Search
+    #   url: /search/
+    #   weight: 20

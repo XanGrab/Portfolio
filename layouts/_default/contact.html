@@ -17,8 +17,6 @@
   >
 
   <input type="hidden" name="access_key" value="845dda45-bd7e-478b-9969-29686423d6dc">
-  
-<input type="checkbox" name="botcheck" class="hidden" style="display: none;">
 
     <div class="form-elements">
       <!-- <fieldset> -->
@@ -30,6 +28,9 @@
         required
       /><br />
       <!-- </fieldset> -->
+
+	  <!-- Silly Bots -->
+	<input type="checkbox" name="botcheck" class="hidden" style="display: none;">
 
       <!-- <fieldset> -->
       Reply-To Email:<br />
@@ -53,6 +54,7 @@
       ><br />
       <!-- </fieldset> -->
 
+	  <input type="hidden" name="redirect" value="https://xangrab.com/thanks.html">
 	  <!-- hCaptcha -->
       <button class="h-captcha" data-captcha="true" data-callback="onSubmit" type="submit" name="sendButton">Send</button>
     </div>
