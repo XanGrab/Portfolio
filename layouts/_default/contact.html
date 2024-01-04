@@ -11,10 +11,15 @@
 
 <div id="searchbox">
   <form
-    class="gform"
-    action="https://script.google.com/macros/s/AKfycbxbBnClAOEdJEicWUesnBHhx2DjQyg8oPt7DRCBVeIDRERy6YJF7a3HfnfnCwOzCGTH/exec"
+  	id="form"
+    action="https://api.web3forms.com/submit"
     method="POST"
   >
+
+  <input type="hidden" name="access_key" value="845dda45-bd7e-478b-9969-29686423d6dc">
+  
+<input type="checkbox" name="botcheck" class="hidden" style="display: none;">
+
     <div class="form-elements">
       <!-- <fieldset> -->
       Subject:<br />
@@ -48,129 +53,23 @@
       ><br />
       <!-- </fieldset> -->
 
-      <button type="submit" name="sendButton">Send</button>
+	  <!-- hCaptcha -->
+      <button class="h-captcha" data-captcha="true" data-callback="onSubmit" type="submit" name="sendButton">Send</button>
     </div>
 
     <div class="thankyou_message" style="display: none">
-      <h2><em>Thanks</em> for contacting us! We will get back to you soon!</h2>
+      <h2><em>Thanks</em> for reaching out! I will get back to you soon!</h2>
     </div>
   </form>
 
-  <!-- Submit the Form to Google Using "AJAX" -->
-  <!-- <script data-cfasync="false" src="form-submission-handler.js"></script> -->
 </div>
 
-<script>
-  (function () {
-    // get all data in form and return object
-    function getFormData(form) {
-      var elements = form.elements;
-      var honeypot;
+<!-- hCaptcha - script -->
+<script src="https://web3forms.com/client/script.js" async defer></script>
 
-      var fields = Object.keys(elements)
-        .filter(function (k) {
-          if (elements[k].name === "honeypot") {
-            honeypot = elements[k].value;
-            return false;
-          }
-          return true;
-        })
-        .map(function (k) {
-          if (elements[k].name !== undefined) {
-            return elements[k].name;
-            // special case for Edge's html collection
-          } else if (elements[k].length > 0) {
-            return elements[k].item(0).name;
-          }
-        })
-        .filter(function (item, pos, self) {
-          return self.indexOf(item) == pos && item;
-        });
-
-      var formData = {};
-      fields.forEach(function (name) {
-        var element = elements[name];
-
-        // singular form elements just have one value
-        formData[name] = element.value;
-
-        // when our element has multiple items, get their values
-        if (element.length) {
-          var data = [];
-          for (var i = 0; i < element.length; i++) {
-            var item = element.item(i);
-            if (item.checked || item.selected) {
-              data.push(item.value);
-            }
-          }
-          formData[name] = data.join(", ");
-        }
-      });
-
-      // add form-specific values into the data
-      formData.formDataNameOrder = JSON.stringify(fields);
-      formData.formGoogleSheetName = form.dataset.sheet || "responses"; // default sheet name
-      formData.formGoogleSendEmail = form.dataset.email || ""; // no email by default
-
-      return { data: formData, honeypot: honeypot };
-    }
-
-    function handleFormSubmit(event) {
-      // handles form submit without any jquery
-      event.preventDefault(); // we are submitting via xhr below
-      var form = event.target;
-      var formData = getFormData(form);
-      var data = formData.data;
-
-      // If a honeypot field is filled, assume it was done so by a spam bot.
-      if (formData.honeypot) {
-        return false;
-      }
-
-      disableAllButtons(form);
-      var url = form.action;
-      var xhr = new XMLHttpRequest();
-      xhr.open("POST", url);
-      // xhr.withCredentials = true;
-      xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
-      xhr.onreadystatechange = function () {
-        if (xhr.readyState === 4 && xhr.status === 200) {
-          form.reset();
-          var formElements = form.querySelector(".form-elements");
-          if (formElements) {
-            formElements.style.display = "none"; // hide form
-          }
-          var thankYouMessage = form.querySelector(".thankyou_message");
-          if (thankYouMessage) {
-            thankYouMessage.style.display = "block";
-          }
-        }
-      };
-      // url encode form data for sending as post data
-      var encoded = Object.keys(data)
-        .map(function (k) {
-          return encodeURIComponent(k) + "=" + encodeURIComponent(data[k]);
-        })
-        .join("&");
-      xhr.send(encoded);
-    }
-
-    function loaded() {
-      // bind to the submit event of our form
-      var forms = document.querySelectorAll("form.gform");
-      for (var i = 0; i < forms.length; i++) {
-        forms[i].addEventListener("submit", handleFormSubmit, false);
-      }
-    }
-    document.addEventListener("DOMContentLoaded", loaded, false);
-
-    function disableAllButtons(form) {
-      var buttons = form.querySelectorAll("button");
-      for (var i = 0; i < buttons.length; i++) {
-        buttons[i].disabled = true;
-      }
-    }
-  })();
+<script type="text/javascript">
+  function onSubmit(token) {
+    document.getElementById('form').submit();
+  }
 </script>
-
 {{- end }}{{/* end main */}}

@@ -122,17 +122,7 @@
         </div>
         <ul id="menu">
             <li>
-                <a href="/search/" title="Search (Alt &#43; /)" accesskey=/>
-                    <span>Search</span>
-                </a>
-            </li>
-            <li>
-                <a href="/contact/" title="Contact">
-                    <span class="active">Contact</span>
-                </a>
-            </li>
-            <li>
-                <a href="/static/grabowski_cv.pdf" title="CV">
+                <a href="/assets/docs/grabowski_cv.pdf" title="CV">
                     <span>CV</span>
                 </a>
             </li>
@@ -146,62 +136,173 @@
   <div class="post-meta"></div>
 </header>
 
-<script>
-  export const sendMessage = async function (ctx, event, callback) {
-    e.preventDefault();
-    
-    
-    const sgMail = require("@sendgrid/mail");
-
-    sgMail.setApiKey(ctx.SENDGRID_API_KEY);
-    const msg = {
-      to: ctx.TO_EMAIL_ADDRESS,
-      from: { email: ctx.FROM_EMAIL_ADDRESS, name: "Contact Form" },
-      replyTo: document.getElementById("email").value,
-      subject: `[Contact Form] ${document.getElementById("subject").value}`,
-      text: `From ${document.getElementById("email").value}:\n\n${
-        document.getElementById("body").value
-      }`,
-    };
-
-    try {
-      await sgMail.send(msg).then((result) => {
-        console.log("DEBUG [contact.html] Email sent");
-        response.setStatusCode(200);
-        response.setBody({ success: true });
-        return callback(null, response);
-      });
-    } catch (error) {
-      console.error(error);
-    }
-  };
-</script>
 <div id="searchbox">
   <form
-    action="send-message"
+    class="gform"
+    action="https://script.google.com/macros/s/AKfycbxbBnClAOEdJEicWUesnBHhx2DjQyg8oPt7DRCBVeIDRERy6YJF7a3HfnfnCwOzCGTH/exec"
     method="POST"
-    id="contact-form"
-    enctype="text/plain"
   >
-    Subject:<br />
-    <input type="text" name="subject" placeholder="Your Name" /><br />
-    Reply-To Email:<br />
-    <input type="email" name="email" placeholder="Your Email" /><br />
-    Message:<br />
-    <textarea
-      name="body"
-      rows="5"
-      cols="30"
-      placeholder="Your Message"
-    ></textarea
-    ><br />
-    <button type="submit" name="sendButton">Send</button>
+    <div class="form-elements">
+      
+      Subject:<br />
+      <input
+        type="text"
+        name="subject"
+        placeholder="Your Name"
+        required
+      /><br />
+      
+
+      
+      Reply-To Email:<br />
+      <input
+        type="email"
+        name="email"
+        placeholder="Your Email"
+        required
+      /><br />
+      
+
+      
+      Message:<br />
+      <textarea
+        name="body"
+        rows="5"
+        cols="30"
+        placeholder="Your Message Here 😙"
+        required
+      ></textarea
+      ><br />
+      
+
+      <button type="submit" name="sendButton">Send</button>
+    </div>
+
+    <div class="thankyou_message" style="display: none">
+      <h2><em>Thanks</em> for contacting us! We will get back to you soon!</h2>
+    </div>
   </form>
+
+  
+  
 </div>
+
+<script>
+  (function () {
+    
+    function getFormData(form) {
+      var elements = form.elements;
+      var honeypot;
+
+      var fields = Object.keys(elements)
+        .filter(function (k) {
+          if (elements[k].name === "honeypot") {
+            honeypot = elements[k].value;
+            return false;
+          }
+          return true;
+        })
+        .map(function (k) {
+          if (elements[k].name !== undefined) {
+            return elements[k].name;
+            
+          } else if (elements[k].length > 0) {
+            return elements[k].item(0).name;
+          }
+        })
+        .filter(function (item, pos, self) {
+          return self.indexOf(item) == pos && item;
+        });
+
+      var formData = {};
+      fields.forEach(function (name) {
+        var element = elements[name];
+
+        
+        formData[name] = element.value;
+
+        
+        if (element.length) {
+          var data = [];
+          for (var i = 0; i < element.length; i++) {
+            var item = element.item(i);
+            if (item.checked || item.selected) {
+              data.push(item.value);
+            }
+          }
+          formData[name] = data.join(", ");
+        }
+      });
+
+      
+      formData.formDataNameOrder = JSON.stringify(fields);
+      formData.formGoogleSheetName = form.dataset.sheet || "responses"; 
+      formData.formGoogleSendEmail = form.dataset.email || ""; 
+
+      return { data: formData, honeypot: honeypot };
+    }
+
+    function handleFormSubmit(event) {
+      
+      event.preventDefault(); 
+      var form = event.target;
+      var formData = getFormData(form);
+      var data = formData.data;
+
+      
+      if (formData.honeypot) {
+        return false;
+      }
+
+      disableAllButtons(form);
+      var url = form.action;
+      var xhr = new XMLHttpRequest();
+      xhr.open("POST", url);
+      
+      xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+      xhr.onreadystatechange = function () {
+        if (xhr.readyState === 4 && xhr.status === 200) {
+          form.reset();
+          var formElements = form.querySelector(".form-elements");
+          if (formElements) {
+            formElements.style.display = "none"; 
+          }
+          var thankYouMessage = form.querySelector(".thankyou_message");
+          if (thankYouMessage) {
+            thankYouMessage.style.display = "block";
+          }
+        }
+      };
+      
+      var encoded = Object.keys(data)
+        .map(function (k) {
+          return encodeURIComponent(k) + "=" + encodeURIComponent(data[k]);
+        })
+        .join("&");
+      xhr.send(encoded);
+    }
+
+    function loaded() {
+      
+      var forms = document.querySelectorAll("form.gform");
+      for (var i = 0; i < forms.length; i++) {
+        forms[i].addEventListener("submit", handleFormSubmit, false);
+      }
+    }
+    document.addEventListener("DOMContentLoaded", loaded, false);
+
+    function disableAllButtons(form) {
+      var buttons = form.querySelectorAll("button");
+      for (var i = 0; i < buttons.length; i++) {
+        buttons[i].disabled = true;
+      }
+    }
+  })();
+</script>
     </main>
     
 <footer class="footer">
-    <span>&copy; 2023 <a href="">XanderGrab</a></span>
+    <span>&copy; 2024 <a href="">XanderGrab</a></span>
     <span>
         Powered by
         <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &

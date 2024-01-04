@@ -33,7 +33,7 @@ params:
       url: "https://xanxg.itch.io/"
 
     - name: email
-      url: "mailto:xander@xangrab.com"
+      url: /contact/
 
   assets:
     favicon: "assets/favicon/favicon.ico"
@@ -47,11 +47,11 @@ menu:
       name: CV
       url: /assets/docs/grabowski_cv.pdf
       weight: 40
-    # - contact: Contact
-    #   name: Contact
-    #   url: /contact/
-    #   weight: 30
-    # - contact: Search
-    #   name: Search
-    #   url: /search/
-    #   weight: 20
+    - contact: Contact
+      name: Contact
+      url: /contact/
+      weight: 30
+    - contact: Search
+      name: Search
+      url: /search/
+      weight: 20
