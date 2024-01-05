@@ -2,8 +2,8 @@
 title: "🎼 ModeMash!" 
 date: 2023-12-15
 draft: false
-summary: "An arcade-style brawler themed around the musical modes"
-description: "An arcade-style brawler themed around the musical modes"
+summary: "An arcade-style brawler themed around the musical modes created for the 2023 Mode Jam"
+description: "An arcade-style brawler themed around the musical modes created for the 2023 Mode Jam"
 tags: ["Unity", "Game", "Game Jam"]
 ---
 
