@@ -1,12 +1,11 @@
 ---
 title: "🎼 ModeMash!" 
-date: 2024-01-04
+date: 2023-12-15
 draft: false
-summary: "This post provides an overview of *ModeMash!* Created for the 2023 Mode Jam"
+summary: "An arcade-style brawler themed around the musical modes"
+description: "An arcade-style brawler themed around the musical modes"
 tags: ["Unity", "Games"]
 ---
-
-## *An arcade-style brawler themed around the musical modes*
 
 Performance day approaches for our Musical Maestro! Anxious for his big performance, the Maestro attempts to use his magical prowess to call upon an ancient spell to enchant his concert...
 
