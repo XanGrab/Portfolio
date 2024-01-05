@@ -2,8 +2,8 @@
 title: "🪰 No Time to Horsefly" 
 date: 2022-10-03
 draft: false
-summary: "A top-down, rogue-lite, puzzle, micro-game set in the lifespan of a horsefly created for the 2022 Ludum Dare Jam"  
-description: "A top-down, rogue-lite, puzzle, micro-game set in the lifespan of a horsefly created for the 2022 Ludum Dare Jam"  
+summary: "A top-down, rogue-lite, puzzle game set in the lifespan of a horsefly created for the 2022 Ludum Dare"  
+description: "A top-down, rogue-lite, puzzle game set in the lifespan of a horsefly created for the 2022 Ludum Dare Jam"  
 tags: ["Unity", "Game", "Game Jam"]
 ---
 
