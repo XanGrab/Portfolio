@@ -1,10 +1,10 @@
 ---
-title: "🐳 Wake: Talkes from the Aqualab" 
+title: "🐳 Wake: Tales from the Aqualab" 
 date: 2023-05-15
 draft: false
 summary: "An online game to teach middle school students science research practices in the Life Sciences"
 description: "An online game to teach middle school students science research practices in the Life Sciences"
-tags: ["Unity", "Games", "Published"]
+tags: ["Unity", "Game", "Published"]
 weight: 1
 ---
 

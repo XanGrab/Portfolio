@@ -4,7 +4,7 @@ date: 2024-01-05
 draft: false
 summary: "An upcoming fan remake of the sleeper hit SNES game, EarthBound."
 description: "An upcoming fan remake of the sleeper hit SNES game, EarthBound."
-tags: ["Godot", "Games", "Upcoming"]
+tags: ["Godot", "Game", "Upcoming"]
 weight: 2
 ---
 

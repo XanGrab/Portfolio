@@ -4,7 +4,7 @@ date: 2023-12-15
 draft: false
 summary: "An arcade-style brawler themed around the musical modes"
 description: "An arcade-style brawler themed around the musical modes"
-tags: ["Unity", "Games"]
+tags: ["Unity", "Game", "Game Jam"]
 ---
 
 Performance day approaches for our Musical Maestro! Anxious for his big performance, the Maestro attempts to use his magical prowess to call upon an ancient spell to enchant his concert...
