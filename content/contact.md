@@ -2,6 +2,6 @@
 title: "Contact"
 layout: "contact"
 url: "/contact/"
-summary: contact
+summary: "Reach me thorugh the following contact portal."
 placeholder: "Subject"
 ---
