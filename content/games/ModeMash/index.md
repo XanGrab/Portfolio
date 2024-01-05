@@ -1,5 +1,5 @@
 ---
-title: "ModeMash! 🎼"
+title: "🎼 ModeMash!" 
 date: 2024-01-04
 draft: false
 summary: "This post provides an overview of *ModeMash!* Created for the 2023 Mode Jam"
