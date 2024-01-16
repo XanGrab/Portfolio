@@ -18,4 +18,4 @@ I am proficient in a diverse range of full-stack toolchains targeting game and w
 
 I achieved the rank of Eagle Scout before graduating high school and continued developing my leadership skills guiding competitive e-sports teams to compete at the national level and igniting passion in STEM teaching kids ages K-12.
 
-Learn more about my projects in the [**Games**](../games/) tab up above
+Learn more about my projects in the [**Games**](../../games/) tab up above

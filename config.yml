@@ -23,7 +23,7 @@ params:
         imageHeight: 240 # custom size
         buttons:
             - name: About Me
-              url: whoami
+              url: /blog/whoami
 
     socialIcons:
         - name: github
