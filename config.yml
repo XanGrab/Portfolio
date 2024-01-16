@@ -4,67 +4,69 @@ title: XanderGrab
 theme: Portfolio-PaperMod-theme
 
 outputs:
-  home:
-    - HTML
-    - RSS
-    - JSON
+    home:
+        - HTML
+        - RSS
+        - JSON
 
 params:
-  defaultTheme: dark
+    defaultTheme: dark
 
-  profileMode:
-    enabled: true
-    title: 👋 Hello there! I'm Xander
-    subtitle: "(aka XanderGrab) I'm a Game Developer and Designer as well as an all-around Games Hobbyist. I'm passionate about creating Serious or Applied games."
-    imageUrls:
-      ["assets/icons/ProfessionalPhoto.JPG", "assets/icons/FancyIcon.png"]
-    imageTitle: "My Icon"
-    imageWidth: 240 # custom size
-    imageHeight: 240 # custom size
+    profileMode:
+        enabled: true
+        title: 👋 Hello there! I'm Xander
+        subtitle: "(aka XanderGrab) I'm a Game Developer and Designer as well as an all-around Games Hobbyist. I'm passionate about creating Serious or Applied games."
+        imageUrls:
+            ["assets/icons/ProfessionalPhoto.JPG", "assets/icons/FancyIcon.png"]
+        imageTitle: "My Icon"
+        imageWidth: 240 # custom size
+        imageHeight: 240 # custom size
+        buttons:
+            - name: About Me
+              url: whoami
 
-  socialIcons:
-    - name: github
-      url: "https://github.com/XanGrab"
+    socialIcons:
+        - name: github
+          url: "https://github.com/XanGrab"
 
-    - name: linkedin
-      url: "https://www.linkedin.com/in/alexander-xander-grabowski-8164481a1/"
+        - name: linkedin
+          url: "https://www.linkedin.com/in/alexander-xander-grabowski-8164481a1/"
 
-    - name: itchio
-      url: "https://xanxg.itch.io/"
+        - name: itchio
+          url: "https://xanxg.itch.io/"
 
-    - name: email
-      url: /contact/
+        - name: email
+          url: /contact/
 
+    mainSections:
+        - games
+        - blog
 
-  mainSections:
-    - games
-    - blog
-
-  assets:
-    favicon: "assets/favicon/favicon.ico"
-    favicon16x16: "assets/favicon/favicon-16x16.png"
-    favicon32x32: "assets/favicon/favicon-32x32.png"
-    apple_touch_icon: "assets/favicon/apple-touch-icon.png"
+    assets:
+        favicon: "assets/favicon/favicon.ico"
+        favicon16x16: "assets/favicon/favicon-16x16.png"
+        favicon32x32: "assets/favicon/favicon-32x32.png"
+        apple_touch_icon: "assets/favicon/apple-touch-icon.png"
 
 menu:
-  main:
-    - identifier: Resume
-      name: "📜 CV"
-      url: /assets/docs/grabowski_cv.pdf
-      weight: 5
-    - identifier: Contact
-      name: "✉️ Contact"
-      url: /contact/
-      weight: 4
-    # - identifier: Blog
-    #   name: Blog
-    #   url: /blog/
-    #   weight: 3
-    - identifier: Games
-      name: "🕹 Games"
-      url: /games/
-      weight: 2
-    - identifier: Search
-      name: "🔍️ Search"
-      url: /search/
-      weight: 1
+    main:
+        - identifier: Resume
+          name: "📜 CV"
+          url: /assets/docs/grabowski_cv.pdf
+          weight: 5
+        - identifier: Contact
+          name: "✉️ Contact"
+          url: /contact/
+          weight: 4
+        # - identifier: Blog
+        #   name: Blog
+        #   url: /blog/
+        #   weight: 3
+        - identifier: Games
+          name: "🕹 Games"
+          url: /games/
+          weight: 2
+        - identifier: Search
+          name: "🔍️ Search"
+          url: /search/
+          weight: 1
