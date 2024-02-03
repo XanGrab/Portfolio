@@ -15,7 +15,7 @@ params:
     profileMode:
         enabled: true
         title: 👋 Hello there! I'm Xander
-        subtitle: "(aka XanderGrab) I'm a Game Developer and Designer as well as an all-around Games Hobbyist. I'm passionate about creating Serious or Applied games."
+        subtitle: "(aka XanderGrab) I'm a Game Developer and Designer as well as an all-around Games Hobbyist. I'm passionate about creating Transformational or Applied games."
         imageUrls:
             ["assets/icons/ProfessionalPhoto.JPG", "assets/icons/FancyIcon.png"]
         imageTitle: "My Icon"
