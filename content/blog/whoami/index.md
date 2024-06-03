@@ -2,6 +2,7 @@
 title: "whoami"
 date: 2024-01-15
 draft: false
+summary: "Learn more about who I am and what I am about! 😊"
 ---
 
 {{< rawhtml >}}

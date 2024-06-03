@@ -1,3 +1,7 @@
+# HUGO
+public/
+resources/_gen/*
+
 # Logs
 logs
 *.log
