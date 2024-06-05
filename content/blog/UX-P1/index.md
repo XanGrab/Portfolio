@@ -2,7 +2,7 @@
 title: "UX Design: Process Blog #1"
 date: 2023-06-03
 searchHidden: true
-draft: true
+# draft: true
 cover:
     image: img/chart.png
     alt: "Graph from A2:Task Completion Exercise"
