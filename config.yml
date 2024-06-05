@@ -9,6 +9,8 @@ outputs:
         - RSS
         - JSON
 
+buildDrafts: true
+
 params:
     defaultTheme: dark
 
