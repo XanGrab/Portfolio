@@ -2,14 +2,78 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/games/wake/</loc>
+    <lastmod>2023-05-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/games/mothersquared/</loc>
+    <lastmod>2024-01-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/</loc>
+    <lastmod>2024-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/whoami/</loc>
+    <lastmod>2024-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2024-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/game/</loc>
+    <lastmod>2024-01-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/godot/</loc>
+    <lastmod>2024-01-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2024-01-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/upcoming/</loc>
+    <lastmod>2024-01-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/games/</loc>
+    <lastmod>2024-01-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/game-jam/</loc>
+    <lastmod>2023-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/unity/</loc>
+    <lastmod>2023-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/games/modemash/</loc>
+    <lastmod>2023-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/development/</loc>
+    <lastmod>2023-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/firebase/</loc>
+    <lastmod>2023-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/google-analytics/</loc>
+    <lastmod>2023-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/research/</loc>
+    <lastmod>2023-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/ux/</loc>
+    <lastmod>2023-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/ux-p2/</loc>
+    <lastmod>2023-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/ux-p1/</loc>
+    <lastmod>2023-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/published/</loc>
+    <lastmod>2023-05-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/games/notimetohorsefly/</loc>
+    <lastmod>2022-10-03T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/categories/</loc>
   </url><url>
     <loc>/contact/</loc>
   </url><url>
+    <loc>/thanks/</loc>
+  </url><url>
     <loc>/search/</loc>
-  </url><url>
-    <loc>/tags/</loc>
-  </url><url>
-    <loc>/</loc>
   </url>
 </urlset>

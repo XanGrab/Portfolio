@@ -5,14 +5,87 @@
     <link>/</link>
     <description>Recent content on XanderGrab</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Contact</title>
+      <title>🐳 Wake: Tales from the Aqualab</title>
+      <link>/games/wake/</link>
+      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/games/wake/</guid>
+      <description>An online game to teach middle school students science research practices in the Life Sciences</description>
+    </item>
+    
+    <item>
+      <title>🌏️ MOTHER²</title>
+      <link>/games/mothersquared/</link>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/games/mothersquared/</guid>
+      <description>An upcoming fan remake of the sleeper hit SNES game, EarthBound.</description>
+    </item>
+    
+    <item>
+      <title>whoami</title>
+      <link>/blog/whoami/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/whoami/</guid>
+      <description>Learn more about who I am and what I am about! 😊</description>
+    </item>
+    
+    <item>
+      <title>🎼 ModeMash!</title>
+      <link>/games/modemash/</link>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/games/modemash/</guid>
+      <description>An arcade-style brawler themed around the musical modes created for the 2023 Mode Jam</description>
+    </item>
+    
+    <item>
+      <title>UX Design: Process Blog #2</title>
+      <link>/blog/ux-p2/</link>
+      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/ux-p2/</guid>
+      <description>Over the course of the summer 2024, these short portfolio entries describe the research process for our user experience research capstone.</description>
+    </item>
+    
+    <item>
+      <title>UX Design: Process Blog #1</title>
+      <link>/blog/ux-p1/</link>
+      <pubDate>Sat, 03 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/ux-p1/</guid>
+      <description>Over the course of the summer 2024 term, these short portfolio entries describe the research process for our user experience research capstone.</description>
+    </item>
+    
+    <item>
+      <title>🪰 No Time to Horsefly</title>
+      <link>/games/notimetohorsefly/</link>
+      <pubDate>Mon, 03 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/games/notimetohorsefly/</guid>
+      <description>A top-down, rogue-lite, puzzle game set in the lifespan of a horsefly created for the 2022 Ludum Dare Jam</description>
+    </item>
+    
+    <item>
+      <title>✉️ Contact</title>
       <link>/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/contact/</guid>
-      <description>contact</description>
+      <description>Reach me thorugh the following contact portal.</description>
+    </item>
+    
+    <item>
+      <title>📬️ Your Form Has Been Submitted!</title>
+      <link>/thanks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/thanks/</guid>
+      <description>Your form has been submited</description>
     </item>
     
     
