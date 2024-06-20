@@ -1,6 +1,6 @@
 ---
 title: "UX Design: Process Blog #2"
-date: 2023-06-18
+date: 2024-06-18
 searchHidden: true
 # draft: true
 cover:
