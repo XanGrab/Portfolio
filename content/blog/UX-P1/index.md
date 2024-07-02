@@ -29,3 +29,5 @@ As the development team of MOTHER² is comprised entirely of fans of the origina
 ## A2: Metrics Exploration
 
 In preparation for our upcoming research studies, we developed a greater understanding of performance metrics based on task completion, error rate, efficiency, and learnability. Particular attention was dedicated to the task analysis process, detailing the presentation, collection, and categorization of task data. Subsequently, we employed some elementary statistical analysis on sample data to practice these skills in spreadsheet editing software.
+
+_This is the second entry in my UX portfolio series. If you have not read the first one, you can find it [here](../ux-p2/)._ ⏩

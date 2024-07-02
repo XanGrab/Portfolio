@@ -28,6 +28,8 @@ My cohort and I also began some introductory training with [Google Analytics 4](
 
 For the development of _MOTHER²_, collecting analytics could present valuable insights for balancing the pacing and combat of the game once the alpha release is shipped. Capturing timestamps between the completion of key events in the game's story can provide developers insight into the amount time players spend on each segment of the game. These measurements can then be used as a sort of early warning system for designers looking to suss out pain points in the progression of the game.
 
+_The UX portfolio series continues on. You can continue reading [here](../ux-p3/)._ ⏩️
+
 <!-- ## Looking ahead -->
 
 <!--
