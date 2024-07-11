@@ -6,7 +6,7 @@
     <description>Recent content on XanderGrab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>🐳 Wake: Tales from the Aqualab</title>
       <link>/games/wake/</link>
@@ -26,9 +26,27 @@
     </item>
     
     <item>
+      <title>🎼 ModeMash!</title>
+      <link>/games/modemash/</link>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/games/modemash/</guid>
+      <description>An arcade-style brawler themed around the musical modes created for the 2023 Mode Jam</description>
+    </item>
+    
+    <item>
+      <title>🪰 No Time to Horsefly</title>
+      <link>/games/notimetohorsefly/</link>
+      <pubDate>Mon, 03 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/games/notimetohorsefly/</guid>
+      <description>A top-down, rogue-lite, puzzle game set in the lifespan of a horsefly created for the 2022 Ludum Dare Jam</description>
+    </item>
+    
+    <item>
       <title>UX Design: Process Blog #3</title>
       <link>/blog/ux-p3/</link>
-      <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 07 Jul 2024 00:00:00 +0000</pubDate>
       
       <guid>/blog/ux-p3/</guid>
       <description>Over the course of the summer, these short portfolio entries describe my research process for my user experience research capstone.</description>
@@ -54,29 +72,11 @@
     
     <item>
       <title>whoami</title>
-      <link>/blog/whoami/</link>
+      <link>/whoami/</link>
       <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>/blog/whoami/</guid>
+      <guid>/whoami/</guid>
       <description>Learn more about who I am and what I am about! 😊</description>
-    </item>
-    
-    <item>
-      <title>🎼 ModeMash!</title>
-      <link>/games/modemash/</link>
-      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/games/modemash/</guid>
-      <description>An arcade-style brawler themed around the musical modes created for the 2023 Mode Jam</description>
-    </item>
-    
-    <item>
-      <title>🪰 No Time to Horsefly</title>
-      <link>/games/notimetohorsefly/</link>
-      <pubDate>Mon, 03 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/games/notimetohorsefly/</guid>
-      <description>A top-down, rogue-lite, puzzle game set in the lifespan of a horsefly created for the 2022 Ludum Dare Jam</description>
     </item>
     
     <item>
