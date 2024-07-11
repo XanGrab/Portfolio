@@ -2,7 +2,8 @@
 title: "UX Design: Process Blog #3"
 date: 2024-07-07
 searchHidden: true
-# draft: true
+draft: true
+weight: 5
 cover:
     image: img/parsec-for-ux.png
     alt: "Research Study Preperation"

@@ -2,7 +2,8 @@
 title: "UX Design: Process Blog #2"
 date: 2024-06-18
 searchHidden: true
-# draft: true
+draft: true
+weight: 5
 cover:
     image: img/flood-it.png
     alt: "_Flood-It!_ a demo title used in training for Google Analytics 4"

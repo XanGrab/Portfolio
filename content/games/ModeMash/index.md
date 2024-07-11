@@ -1,7 +1,8 @@
 ---
-title: "🎼 ModeMash!" 
+title: "🎼 ModeMash!"
 date: 2023-12-15
 draft: false
+weight: 3
 cover:
     image: img/cover-img.png
     alt: "ModeMash Cover Image"
@@ -21,4 +22,5 @@ Now the Maestro must set things right and demonstrate his mastery of the mystic 
 ## [Play Now!](https://xangrab.github.io/ModeJam2023/)
 
 ---
-*Created for Bigmode Game Jam 2023*
+
+_Created for Bigmode Game Jam 2023_
