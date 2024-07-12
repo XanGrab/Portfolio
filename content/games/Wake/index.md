@@ -1,10 +1,11 @@
 ---
 title: "🐳 Wake: Tales from the Aqualab"
-date: 2023-05-15
+date: 2024-07-12
 draft: false
 cover:
-    image: img/wake-hero-cover.png
+    image: img/wake-hero.png
     alt: "Wake cover image"
+    hidden: true
 revealInHomeList: true
 summary: "An online game to teach middle school students science research practices in the Life Sciences"
 description: "An online game to teach middle school students science research practices in the Life Sciences"
@@ -16,7 +17,7 @@ weight: 1
 
 Play as a young scientist faced with scientific challenges across multiple oceanic ecosystems. Made in partnership with Harvard and the Penn Center for Learning Analytics. Funding provided by NSF.
 
-![Wake Gameplay Image](img/wake-gameplay-screenshot.png)
+{{< figure src="./img/wake-gameplay-screenshot.png" align="center" caption="_Gameplay screenshot of Wake_" >}}
 
 ## My Contributions
 
@@ -29,6 +30,12 @@ Play as a young scientist faced with scientific challenges across multiple ocean
     designers, and developers together to implement Aqualab’s
     quests
 -   QA Testing using Trello and other in-house logging tools
+
+## Games for Change 2024 | Best in Enviormental Impact
+
+{{< figure src="./img/G4C-wake.png" align="center" caption="_Preview of the G4C Awards Overview_" >}}
+
+Field day lab recently recieved some recognition at the 2024 Games for Change Awards! **_Wake_** was nominated for a Silver award in the category Best in Enviormental Impact. Their other entry worked on by some good friends of mine [**_Headlines and High Water_**](https://fielddaylab.wisc.edu/play/headlines/) won a Gold awards for Best in Civics. You can find both titles in the awards overview at [festival.gamesforchange.org](https://festival.gamesforchange.org/2024-awards-nominee-overview).
 
 ---
 
