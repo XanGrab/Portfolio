@@ -35,7 +35,7 @@ Play as a young scientist faced with scientific challenges across multiple ocean
 
 {{< figure src="./img/G4C-wake.png" align="center" caption="_Preview of the G4C Awards Overview_" >}}
 
-Field day lab recently recieved some recognition at the 2024 Games for Change Awards! **_Wake_** was nominated for a Silver award in the category Best in Enviormental Impact. Their other entry worked on by some good friends of mine [**_Headlines and High Water_**](https://fielddaylab.wisc.edu/play/headlines/) won a Gold awards for Best in Civics. You can find both titles in the awards overview at [festival.gamesforchange.org](https://festival.gamesforchange.org/2024-awards-nominee-overview).
+Field Day Learning Games recently recieved some recognition at the 2024 _Games for Change Awards_! **_Wake_** was nominated for a Silver award in the category Best in Enviormental Impact. Their other entry (developed by some good friends of mine across the office) [**_Headlines and High Water_**](https://fielddaylab.wisc.edu/play/headlines/) won a Gold awards for Best in Civics. You can find both titles in the awards overview at [festival.gamesforchange.org](https://festival.gamesforchange.org/2024-awards-nominee-overview).
 
 ---
 
