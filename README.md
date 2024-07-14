@@ -11,5 +11,5 @@ git clone
 cd /Portfolio
 git submodule init
 git submodule update
-hugo server
+hugo serve
 ```
