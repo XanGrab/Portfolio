@@ -1,11 +1,11 @@
 ---
-title: "UX Design: Process Blog #4"
+title: "MAD UX: Process Blog #4"
 date: 2024-07-22
 searchHidden: true
 draft: true
 weight: 5
 cover:
-    image: "img/eb-controls-quick-reference.png"
+    image: "img/cover.png"
     alt: "Page 4 of the EarthBound Player's Guide to utilized as a quick reference for participants"
     caption: "Page 4 of the EarthBound Player's Guide to utilized as a quick reference for participants"
     hidden: true
@@ -24,11 +24,9 @@ Particular attention was paid to developing our pre- and post- task questions in
 
 {{< figure src="./img/post-task-questionare.png" align="center" caption="_Snapshot of the post-task questionare drafted for the pilot usability study_" >}}
 
-Distinct from my studies in the Spring and Fall, my usability study this term is now focused entirely on a game that has already completed its production process, namely EarthBound. That meant submitting my research proposal to the head of the MOTHER² development team in order to recruit from within the project community on Discord. The following video from MOTHER fan MonkeyNess, provides his personal analysis of EarthBound’s opening moments through the lens of game design. This video gives a great overview of some of the key assumptions similar to those shared by the developers on the project.
+Distinct from my studies in the Spring and Fall, my usability study this term is now focused entirely on a game that has already completed its production process, namely EarthBound. That meant submitting my research proposal to the head of the MOTHER² development team in order to recruit from within the project community on Discord. The following video from MOTHER fan [MonkeyNess](https://www.youtube.com/@MonkeyNess), provides his personal analysis of EarthBound’s opening moments through the lens of game design. This video gives a great overview of some of the key assumptions similar to those shared by the developers on the project.
 
 {{< youtube lGOzNbejtgE >}}
-
-<!-- https://youtu.be/lGOzNbejtgE?si=wego-LWE_yxLFLdA -->
 
 ## Pilot Usability Sessions
 
@@ -40,4 +38,4 @@ In response to participant comments made while learning the controls of the game
 
 {{< figure src="./img/eb-controls-quick-reference.png" align="center" caption="_Page 4 of the EarthBound Player's Guide to utilized as a quick reference for participants_" >}}
 
-<!-- _The UX portfolio series continues on. You can continue reading [here](../ux-p5/)._ ⏩️ -->
+_The UX portfolio series continues on. You can continue reading [here](../ux-p5/)._ ⏩️

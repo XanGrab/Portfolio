@@ -1,19 +1,22 @@
 ---
-title: "UX Design: Process Blog #3"
+title: "MAD UX: Process Blog #3"
 date: 2024-07-07
 searchHidden: true
 draft: true
 weight: 5
 cover:
-    image: img/parsec-for-ux.png
+    image: img/cover.png
     alt: "Research Study Preperation"
     caption: "_Parsec_ a remote desktop platform used for remote playtesting & Games User Research."
+    hidden: true
 summary: "Prepairing to conduct a task-based research study 👨‍🔬🎮️"
 description: "Over the course of the summer, these short portfolio entries describe my research process for my user experience research capstone."
 tags: ["UX", "Research", "Development", "Parsec", "Google Analytics"]
 ---
 
 _This is the third entry in my UX portfolio series. If you have not read the previous one, you can find it [here](../ux-p2/)_ 👈️
+
+{{< figure src="./img/parsec-for-ux.png" align="center" caption="_Parsec_ a remote desktop platform used for remote playtesting & Games User Research." >}}
 
 ## Wrapping up GA4
 

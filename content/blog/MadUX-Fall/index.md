@@ -5,11 +5,10 @@ searchHidden: true
 draft: true
 weight: 5
 cover:
-    image: img/chris-fillhart-jeff.png
-    alt: "Illustration of Jeff by Chris Fillhart"
-    caption: "Illustration of Jeff by Chris Fillhart, checkout his [All of EarthBound series](https://chrisfillhart.com/portfolio-3-2/project-two-ky966-c9cm8)"
+    image: img/cover.png
+    alt: "(Cover Image) MAD UX: Case Study: Beginning User Research for a Fan Game"
 summary: "Summary of the research conducted as a part of the fall term of my user experience capstone. 👨‍🔬🎮️"
-description: "Case study exploring my first steps taking into the realm of games user research."
+description: "Exploring my first steps into the realm of games user research."
 tags: ["UX", "Research", "Development", "MOTHER²"]
 ---
 
@@ -43,4 +42,4 @@ For this reason, I conducted two studies in order to capture a more detailed sna
 
 From these studies, I was able to collect over 300 responses and conduct 7 sem-moderated interviews which generated a ton of raw data that I was then able to record and transform into deliverables for my team. These deliverables included a competitor set of similar EarthBound remake titles, a catalog of games our players were most familiar with, some demographic info for our target audience, and poll results for our followers' favorite types of in-game rewards and bonus challenges. As hoped, sharing this information with my team, helped to give clarity to our design discussions around our potential users and bought me a little more buy-in to continue my user research within the project. And indeed, there was plenty more to be done. In preparation for our Beta launch, this research experiment helped reveal the potential for additional playtests and observational studies to be conducted to better understand what draws fans to our project.
 
-{{< figure src="./img/M2-indirect-competitor-set.png" align="center" caption="_This figure represents the deliverable of the indirect competitor catelog illustrating our follower's favorite RPG titles_" >}}
+{{< figure src="./img/M2-indirect-competitor-set.png" align="center" caption="_This figure represents the deliverable of the indirect competitor catelog, illustrating our follower's favorite RPG titles_" >}}

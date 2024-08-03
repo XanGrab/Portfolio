@@ -1,19 +1,22 @@
 ---
-title: "UX Design: Process Blog #2"
+title: "MAD UX: Process Blog #2"
 date: 2024-06-18
 searchHidden: true
 draft: true
 weight: 5
 cover:
-    image: img/flood-it.png
-    alt: "_Flood-It!_ a demo title used in training for Google Analytics 4"
+    image: img/cover.png
+    alt: "Process Log #2: _Flood-It!_ "
     caption: "_Flood-It!_ one of the primary demo titles used in my training with Google Analytics 4"
+    hidden: true
 summary: "Exploring Analytics in Google Analytics 4 & Self-Reported Metrics"
 description: "Over the course of the summer, these short portfolio entries describe my research process for my user experience research capstone."
 tags: ["UX", "Research", "Development", "Firebase", "Google Analytics"]
 ---
 
 _This is the second entry in my UX portfolio series. If you have not read the first one, you can find it [here](../ux-p1/)_ 👈️
+
+{{< figure src="./img/flood-it.png" align="center" caption="_Flood-It!_ one of the primary demo titles used in my training with Google Analytics 4" >}}
 
 ## Task Analysis vs Self-Reported Metrics
 
@@ -30,13 +33,3 @@ My cohort and I also began some introductory training with [Google Analytics 4](
 For the development of _MOTHER²_, collecting analytics could present valuable insights for balancing the pacing and combat of the game once the alpha release is shipped. Capturing timestamps between the completion of key events in the game's story can provide developers insight into the amount time players spend on each segment of the game. These measurements can then be used as a sort of early warning system for designers looking to suss out pain points in the progression of the game.
 
 _The UX portfolio series continues on. You can continue reading [here](../ux-p3/)._ ⏩️
-
-<!-- ## Looking ahead -->
-
-<!--
-parsec link:
-https://developer.microsoft.com/en-us/games/articles/2023/05/how-xbox-research-accomplished-worldwide-virtual-playtesting-with-parsec/#
-
-Steve Bromley link:
-https://gamesuserresearch.com/top-remote-playtest-platforms-for-unmoderated-testing/
--->

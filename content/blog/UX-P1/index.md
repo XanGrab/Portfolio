@@ -1,17 +1,20 @@
 ---
-title: "UX Design: Process Blog #1"
+title: "MAD UX: Process Blog #1"
 date: 2024-06-03
 searchHidden: true
 draft: true
 weight: 5
 cover:
-    image: img/chart.png
-    alt: "Graph from A2:Task Completion Exercise"
+    image: img/cover.png
+    alt: "Process Log #1 (Cover Image)"
     caption: "Graph from A2: Task Completion Exercise"
+    hidden: true
 summary: "First UX Portfolio Entry ✨"
 description: "Over the course of the summer 2024 term, these short portfolio entries describe my research process for my user experience research capstone."
 tags: ["UX", "Research", "Development"]
 ---
+
+{{< figure src="./img/chart.png" align="center" caption="Example graph from our second assignment: creating figures for sample task completion data" >}}
 
 ## Mad UX
 
