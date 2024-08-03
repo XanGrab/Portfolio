@@ -13,3 +13,7 @@ git submodule init
 git submodule update
 hugo serve
 ```
+
+### TODO
+- [ ] Tags on posts
+- [ ] Improve Search Feature (see fireship.io)
