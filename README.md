@@ -17,3 +17,4 @@ hugo serve
 ### TODO
 - [ ] Tags on posts
 - [ ] Improve Search Feature (see fireship.io)
+- [ ] Tab selection padding
