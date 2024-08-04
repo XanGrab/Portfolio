@@ -1,5 +1,5 @@
 ---
-title: "Case Study: redesigning Randomness"
+title: "Case Study: Redesigning Randomness"
 date: 2024-08-03
 searchHidden: true
 draft: true
@@ -12,5 +12,3 @@ summary: "Summary of prototyping, design and evaluation work completed for the s
 description: "Summary of the design & research conducted as a part of the spring term of my user experience capstone. ✏️🎮️"
 tags: ["UX", "Research", "Development", "MOTHER²"]
 ---
-
-# Redesigning Randomness
