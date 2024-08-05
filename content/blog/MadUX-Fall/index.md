@@ -65,3 +65,7 @@ From these studies, I was able to collect over 300 responses and conduct 7 sem-m
 In the end, this infromation was compiled into a report that was shared with the project leaders outlining what we had learned from our research. Sharing this information with my team, helped to provide clarity during our design discussions around our potential users and bought me a little more buy-in to continue my user research within the project.
 
 And indeed, there was plenty more to be done. In preparation for our Beta launch, this research experiment helped reveal the potential for additional playtests and observational studies to be conducted to better understand what draws fans to, or repels players from our project.
+
+---
+
+_This is not the end of my research with the MOTHER² project. If you would like to learn more about how UX principles informed the design of specific features added to the remake check out the following case study: [Redesigning Randomness 🎲](../madux-spring/)._
