@@ -18,3 +18,6 @@ hugo serve
 - [ ] Tags on posts
 - [ ] Improve Search Feature (see fireship.io)
 - [ ] Tab selection padding
+- [ ] Linked images hover affect
+- [ ] Actual Icons with animated labels
+- [ ] Games 😈🎮
