@@ -65,12 +65,12 @@ menu:
           name: "✉️ Contact"
           url: /contact/
           weight: 4
-        # - identifier: Blog
-        #   name: Blog
-        #   url: /blog/
-        #   weight: 3
+        - identifier: Blog
+          name: "📰 Blog"
+          url: /blog/
+          weight: 3
         - identifier: Games
-          name: "🕹 Games"
+          name: "🎮️ Games"
           url: /games/
           weight: 2
         - identifier: Search
