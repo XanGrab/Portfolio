@@ -6,11 +6,11 @@
     <description>Recent content on XanderGrab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>🐳 Wake: Tales from the Aqualab</title>
       <link>/games/wake/</link>
-      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
       
       <guid>/games/wake/</guid>
       <description>An online game to teach middle school students science research practices in the Life Sciences</description>
@@ -44,7 +44,43 @@
     </item>
     
     <item>
-      <title>UX Design: Process Blog #3</title>
+      <title>Case Study: Beginning User Research for a Fan Game</title>
+      <link>/blog/madux-fall/</link>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/madux-fall/</guid>
+      <description>Discovering alongside my team how games user research can be used to better illustrate our target players&amp;#39; experience points and expectations for our fan recreation. Read on to learn about my first steps into the realm of games user research studying the fan-game MOTHER² in Fall of 2024 as part of the UW–Madison UX Design Capstone. 👨‍🔬🎮️</description>
+    </item>
+    
+    <item>
+      <title>Case Study: Redesigning Randomness</title>
+      <link>/blog/madux-spring/</link>
+      <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/madux-spring/</guid>
+      <description>Following the research conducted in the fall, the spring term was spent redesigning the broken tool repair sequence for MOTHER². This case study explores the user-centered design process used to develop those interfaces. ✏️🎮️</description>
+    </item>
+    
+    <item>
+      <title>MAD UX: Web Accessability Interlude</title>
+      <link>/blog/ux-p5/</link>
+      <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/ux-p5/</guid>
+      <description>Over the course of the summer, these short portfolio entries describe my research process for my user experience research capstone.</description>
+    </item>
+    
+    <item>
+      <title>MAD UX: Process Blog #4</title>
+      <link>/blog/ux-p4/</link>
+      <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/ux-p4/</guid>
+      <description>Over the course of the summer, these short portfolio entries describe my research process for my user experience research capstone.</description>
+    </item>
+    
+    <item>
+      <title>MAD UX: Process Blog #3</title>
       <link>/blog/ux-p3/</link>
       <pubDate>Sun, 07 Jul 2024 00:00:00 +0000</pubDate>
       
@@ -53,7 +89,7 @@
     </item>
     
     <item>
-      <title>UX Design: Process Blog #2</title>
+      <title>MAD UX: Process Blog #2</title>
       <link>/blog/ux-p2/</link>
       <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
       
@@ -62,7 +98,7 @@
     </item>
     
     <item>
-      <title>UX Design: Process Blog #1</title>
+      <title>MAD UX: Process Blog #1</title>
       <link>/blog/ux-p1/</link>
       <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
       
