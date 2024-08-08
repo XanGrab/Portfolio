@@ -19,5 +19,5 @@ hugo serve
 - [ ] Improve Search Feature (see fireship.io)
 - [ ] Tab selection padding
 - [ ] Linked images hover affect
-- [ ] Actual Icons with animated labels
+- [ ] New Icons & Hamburger Menu
 - [ ] Games 😈🎮
