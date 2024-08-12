@@ -4,7 +4,7 @@ This site was made with HUGO using the PaperMod theme as a base, to which I adde
 
 This portfolio represents a personal hub for accessing some of the projects I've worked on.
 
-## Install Locally
+## 📥️ Install Locally
 
 ```
 git clone
@@ -14,7 +14,7 @@ git submodule update
 hugo serve
 ```
 
-### TODO
+### 💡 TODO
 - [ ] Tags on posts
 - [ ] Improve Search Feature (see fireship.io)
 - [ ] Tab selection padding
