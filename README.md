@@ -6,11 +6,17 @@ This portfolio represents a personal hub for accessing some of the projects I've
 
 ## 📥️ Install Locally
 
+1. First install [Hugo Extended](https://gohugo.io/installation/) ver 0.92.0
+
+2. Clone the repo and unpack submodules
 ```
 git clone
 cd /Portfolio
 git submodule init
 git submodule update
+```
+3. Use Hugo to serve locally
+```
 hugo serve
 ```
 
@@ -20,4 +26,5 @@ hugo serve
 - [ ] Tab selection padding
 - [ ] Linked images hover effect
 - [ ] New Icons & Hamburger Menu
+- [ ] Update Hugo version?
 - [ ] Games 😈🎮
