@@ -1,5 +1,5 @@
 # HUGO
-public/
+public/*
 resources/_gen/*
 
 # Logs
