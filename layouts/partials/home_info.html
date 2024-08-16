@@ -1,8 +1,7 @@
-
+<!-- This is the profile section is a custome job appended to the home info section. -->
 <div class="profile">
     {{- with site.Params.profileMode }}
     <div class="profile_inner">
-        <!-- {{ printf "%#v" (index .imageUrls 0) }} -->
         {{- if (index .imageUrls 0) -}}
         {{- $img := "" }}
         {{- if not (urls.Parse (index .imageUrls 0)).IsAbs }}
@@ -28,23 +27,24 @@
             <img draggable="false" src="{{ $img.Permalink }}" alt="{{ .imageTitle | default "profile image" }}" title="{{ .imageTitle }}"
                 height="{{ .imageHeight | default 150 }}" width="{{ .imageWidth | default 150 }}" />
         {{- else }}
-        <div class="cross-fade-profile">
-            <script>
+		<!-- Custome profile section with double images -->
+		<div class="cross-fade-profile">
+			<script>
                 const fadeImage = function (e) {
                     document.getElementById("img1").classList.toggle("transparent");
                     document.getElementById("img2").classList.toggle("transparent");
                 }
             </script>
-            <img id="img2" class="transparent" draggable="false" src="{{ (index .imageUrls 0) | absURL }}" alt="{{ .imageTitle | default "profile image" }}" title="{{ .imageTitle }}" onclick="fadeImage(this)"
+			<img id="img2" class="transparent" draggable="false" src="{{ (index .imageUrls 0) | absURL }}" alt="{{ .imageTitle | default "profile image" }}" title="{{ .imageTitle }}" onclick="fadeImage(this)"
                 height="{{ .imageHeight | default 150 }}" width="{{ .imageWidth | default 150 }}" />
             <img id="img1" draggable="false" src="{{ (index .imageUrls 1) | absURL }}" alt="{{ .imageTitle | default "profile image" }}" title="{{ .imageTitle }}" onclick="fadeImage(this)"
                 height="{{ .imageHeight | default 150 }}" width="{{ .imageWidth | default 150 }}" />
-        </div>
+		</div>
         {{- end }}
         {{- end }}
         <h1>{{ .title | default site.Title | markdownify }}</h1>
         <span>{{ .subtitle | markdownify }}</span>
-        {{- partial "social_icons.html" site.Params.socialIcons -}}
+        {{- partial "social_icons.html" -}}
 
         {{- with .buttons }}
         <div class="buttons">
@@ -69,5 +69,6 @@
     {{- end}}
 </div>
 
+<!-- This section is used to reveal articles, just like the home info view -->
 {{- with site.Params.homeInfoParams }}
 {{- end -}}

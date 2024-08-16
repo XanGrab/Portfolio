@@ -2,102 +2,102 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/games/wake/</loc>
+    <loc>//localhost:1313/games/wake/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/games/mothersquared/</loc>
+    <loc>//localhost:1313/games/mothersquared/</loc>
     <lastmod>2024-01-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/games/modemash/</loc>
+    <loc>//localhost:1313/games/modemash/</loc>
     <lastmod>2023-12-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/games/notimetohorsefly/</loc>
+    <loc>//localhost:1313/games/notimetohorsefly/</loc>
     <lastmod>2022-10-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/madux-fall/</loc>
+    <loc>//localhost:1313/blog/madux-fall/</loc>
     <lastmod>2024-08-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/madux-spring/</loc>
+    <loc>//localhost:1313/blog/madux-spring/</loc>
     <lastmod>2024-08-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/ux-p5/</loc>
+    <loc>//localhost:1313/blog/ux-p5/</loc>
     <lastmod>2024-08-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/ux-p4/</loc>
+    <loc>//localhost:1313/blog/ux-p4/</loc>
     <lastmod>2024-07-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/ux-p3/</loc>
+    <loc>//localhost:1313/blog/ux-p3/</loc>
     <lastmod>2024-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/ux-p2/</loc>
+    <loc>//localhost:1313/blog/ux-p2/</loc>
     <lastmod>2024-06-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/ux-p1/</loc>
+    <loc>//localhost:1313/blog/ux-p1/</loc>
     <lastmod>2024-06-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/</loc>
+    <loc>//localhost:1313/blog/</loc>
     <lastmod>2024-08-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/development/</loc>
+    <loc>//localhost:1313/tags/development/</loc>
     <lastmod>2024-08-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/mother/</loc>
+    <loc>//localhost:1313/tags/mother/</loc>
     <lastmod>2024-08-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/research/</loc>
+    <loc>//localhost:1313/tags/research/</loc>
     <lastmod>2024-08-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>//localhost:1313/tags/</loc>
     <lastmod>2024-08-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/ux/</loc>
+    <loc>//localhost:1313/tags/ux/</loc>
     <lastmod>2024-08-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>//localhost:1313/</loc>
     <lastmod>2024-08-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/accessibility/</loc>
+    <loc>//localhost:1313/tags/accessibility/</loc>
     <lastmod>2024-08-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/parsec/</loc>
+    <loc>//localhost:1313/tags/parsec/</loc>
     <lastmod>2024-07-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/game/</loc>
+    <loc>//localhost:1313/tags/game/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/published/</loc>
+    <loc>//localhost:1313/tags/published/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/unity/</loc>
+    <loc>//localhost:1313/tags/unity/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/games/</loc>
+    <loc>//localhost:1313/games/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/google-analytics/</loc>
+    <loc>//localhost:1313/tags/google-analytics/</loc>
     <lastmod>2024-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/firebase/</loc>
+    <loc>//localhost:1313/tags/firebase/</loc>
     <lastmod>2024-06-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/whoami/</loc>
+    <loc>//localhost:1313/whoami/</loc>
     <lastmod>2024-01-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/godot/</loc>
+    <loc>//localhost:1313/tags/godot/</loc>
     <lastmod>2024-01-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/upcoming/</loc>
+    <loc>//localhost:1313/tags/upcoming/</loc>
     <lastmod>2024-01-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/game-jam/</loc>
+    <loc>//localhost:1313/tags/game-jam/</loc>
     <lastmod>2023-12-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>//localhost:1313/contact/</loc>
   </url><url>
-    <loc>/contact/</loc>
+    <loc>//localhost:1313/thanks/</loc>
   </url><url>
-    <loc>/thanks/</loc>
+    <loc>//localhost:1313/categories/</loc>
   </url><url>
-    <loc>/search/</loc>
+    <loc>//localhost:1313/search/</loc>
   </url>
 </urlset>

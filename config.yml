@@ -1,7 +1,7 @@
 baseURL: ""
 languageCode: en-us
 title: XanderGrab
-theme: Portfolio-PaperMod-theme
+theme: PaperMod
 paginate: 4
 
 buildDrafts: true
@@ -49,6 +49,12 @@ params:
         - games
         - blog
 
+    cover:
+        hidden: false
+        hiddenInList: false # hide on list pages and home
+        hiddenInSingle: true # hide on single page
+        responsiveImages: false
+
     assets:
         favicon: "assets/favicon/favicon.ico"
         favicon16x16: "assets/favicon/favicon-16x16.png"
@@ -74,6 +80,6 @@ menu:
           url: /games/
           weight: 2
         - identifier: Search
-          name: "🔍️ Search"
+          name: "Search 🔍️"
           url: /search/
           weight: 1
