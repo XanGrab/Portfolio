@@ -6,7 +6,7 @@ This portfolio represents a personal hub for accessing some of the projects I've
 
 ## 📥️ Install Locally
 
-1. First install [Hugo Extended](https://gohugo.io/installation/) v0.111.0 or later
+1. First install [Hugo Extended](https://gohugo.io/installation/) v0.112.4 or later
 
 2. Clone the repo and unpack submodules
 ```
