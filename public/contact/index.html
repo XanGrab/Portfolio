@@ -10,7 +10,7 @@
 <meta name="description" content="Reach me thorugh the following contact portal.">
 <meta name="author" content="">
 <link rel="canonical" href="//localhost:1313/contact/">
-<link crossorigin="anonymous" href="/assets/css/stylesheet.6bd36bae7999b008f90335e118f6284eec837d9ea96b729cf71f583534996cbe.css" integrity="sha256-a9NrrnmZsAj5AzXhGPYoTuyDfZ6pa3Kc9x9YNTSZbL4=" rel="preload stylesheet" as="style">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.a4429cdc962480d0a2c3116031cca451570dbbd547c22f7adbe51a2b4908bb2e.css" integrity="sha256-pEKc3JYkgNCiwxFgMcykUVcNu9VHwi962&#43;UaK0kIuy4=" rel="preload stylesheet" as="style">
 <link rel="icon" href="//localhost:1313/assets/favicon/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="//localhost:1313/assets/favicon/favicon-16x16.png">
 <link rel="icon" type="image/png" sizes="32x32" href="//localhost:1313/assets/favicon/favicon-32x32.png">
@@ -102,16 +102,14 @@
 </header>
 
 <div id="searchbox">
-  <form
-  	id="form"
-    action="https://api.web3forms.com/submit"
-    method="POST"
-  >
-
-  <input type="hidden" name="access_key" value="845dda45-bd7e-478b-9969-29686423d6dc">
+  <form id="form" action="https://api.web3forms.com/submit" method="POST">
+    <input
+      type="hidden"
+      name="access_key"
+      value="845dda45-bd7e-478b-9969-29686423d6dc"
+    />
 
     <div class="form-elements">
-      
       Subject:<br />
       <input
         type="text"
@@ -119,12 +117,15 @@
         placeholder="Your Name"
         required
       /><br />
-      
-
-	  
-	<input type="checkbox" name="botcheck" class="hidden" style="display: none;">
 
       
+      <input
+        type="checkbox"
+        name="botcheck"
+        class="hidden"
+        style="display: none"
+      />
+
       Reply-To Email:<br />
       <input
         type="email"
@@ -132,9 +133,7 @@
         placeholder="Your Email"
         required
       /><br />
-      
 
-      
       Message:<br />
       <textarea
         name="body"
@@ -142,20 +141,31 @@
         cols="30"
         placeholder="Your Message Here 😙"
         required
-      ></textarea
-      ><br />
-      
+      ></textarea>
 
-	  <input type="hidden" name="redirect" value="https://xangrab.com/thanks/">
-	  
-      <button class="h-captcha" data-captcha="true" data-callback="onSubmit" type="submit" name="sendButton">Send</button>
+      <br />
+
+      <input
+        type="hidden"
+        name="redirect"
+        value="https://xangrab.com/thanks/"
+      />
+      
+      <button
+        class="h-captcha"
+        data-captcha="true"
+        data-callback="onSubmit"
+        type="submit"
+        name="sendButton"
+      >
+        Send
+      </button>
     </div>
 
     <div class="thankyou_message" style="display: none">
       <h2><em>Thanks</em> for reaching out! I will get back to you soon!</h2>
     </div>
   </form>
-
 </div>
 
 
@@ -163,7 +173,7 @@
 
 <script type="text/javascript">
   function onSubmit(token) {
-    document.getElementById('form').submit();
+    document.getElementById("form").submit();
   }
 </script>
     </main>

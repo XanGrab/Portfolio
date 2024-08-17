@@ -10,16 +10,14 @@
 </header>
 
 <div id="searchbox">
-  <form
-  	id="form"
-    action="https://api.web3forms.com/submit"
-    method="POST"
-  >
-
-  <input type="hidden" name="access_key" value="845dda45-bd7e-478b-9969-29686423d6dc">
+  <form id="form" action="https://api.web3forms.com/submit" method="POST">
+    <input
+      type="hidden"
+      name="access_key"
+      value="845dda45-bd7e-478b-9969-29686423d6dc"
+    />
 
     <div class="form-elements">
-      <!-- <fieldset> -->
       Subject:<br />
       <input
         type="text"
@@ -27,12 +25,15 @@
         placeholder="Your Name"
         required
       /><br />
-      <!-- </fieldset> -->
 
-	  <!-- Silly Bots -->
-	<input type="checkbox" name="botcheck" class="hidden" style="display: none;">
+      <!-- Silly Bots -->
+      <input
+        type="checkbox"
+        name="botcheck"
+        class="hidden"
+        style="display: none"
+      />
 
-      <!-- <fieldset> -->
       Reply-To Email:<br />
       <input
         type="email"
@@ -40,9 +41,7 @@
         placeholder="Your Email"
         required
       /><br />
-      <!-- </fieldset> -->
 
-      <!-- <fieldset> -->
       Message:<br />
       <textarea
         name="body"
@@ -50,20 +49,31 @@
         cols="30"
         placeholder="Your Message Here 😙"
         required
-      ></textarea
-      ><br />
-      <!-- </fieldset> -->
+      ></textarea>
 
-	  <input type="hidden" name="redirect" value="https://xangrab.com/thanks/">
-	  <!-- hCaptcha -->
-      <button class="h-captcha" data-captcha="true" data-callback="onSubmit" type="submit" name="sendButton">Send</button>
+      <br />
+
+      <input
+        type="hidden"
+        name="redirect"
+        value="https://xangrab.com/thanks/"
+      />
+      <!-- hCaptcha -->
+      <button
+        class="h-captcha"
+        data-captcha="true"
+        data-callback="onSubmit"
+        type="submit"
+        name="sendButton"
+      >
+        Send
+      </button>
     </div>
 
     <div class="thankyou_message" style="display: none">
       <h2><em>Thanks</em> for reaching out! I will get back to you soon!</h2>
     </div>
   </form>
-
 </div>
 
 <!-- hCaptcha - script -->
@@ -71,7 +81,7 @@
 
 <script type="text/javascript">
   function onSubmit(token) {
-    document.getElementById('form').submit();
+    document.getElementById("form").submit();
   }
 </script>
 {{- end }}{{/* end main */}}
