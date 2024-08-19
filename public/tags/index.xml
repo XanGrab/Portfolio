@@ -6,8 +6,43 @@
     <description>Recent content in Tags on XanderGrab</description>
     <generator>Hugo -- 0.132.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Game</title>
+      <link>//localhost:1313/tags/game/</link>
+      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/game/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Godot</title>
+      <link>//localhost:1313/tags/godot/</link>
+      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/godot/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Programmer</title>
+      <link>//localhost:1313/tags/programmer/</link>
+      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/programmer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Upcoming</title>
+      <link>//localhost:1313/tags/upcoming/</link>
+      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/upcoming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>UX Designer</title>
+      <link>//localhost:1313/tags/ux-designer/</link>
+      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/ux-designer/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Development</title>
       <link>//localhost:1313/tags/development/</link>
@@ -72,13 +107,6 @@
       <description></description>
     </item>
     <item>
-      <title>Game</title>
-      <link>//localhost:1313/tags/game/</link>
-      <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/game/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Published</title>
       <link>//localhost:1313/tags/published/</link>
       <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
@@ -104,20 +132,6 @@
       <link>//localhost:1313/tags/firebase/</link>
       <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/tags/firebase/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Godot</title>
-      <link>//localhost:1313/tags/godot/</link>
-      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/godot/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Upcoming</title>
-      <link>//localhost:1313/tags/upcoming/</link>
-      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/upcoming/</guid>
       <description></description>
     </item>
     <item>
