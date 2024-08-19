@@ -6,7 +6,7 @@
     <description>Recent content on XanderGrab</description>
     <generator>Hugo -- 0.132.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>🐳 Wake: Tales from the Aqualab</title>
@@ -18,9 +18,9 @@
     <item>
       <title>🌏️ MOTHER²</title>
       <link>//localhost:1313/games/mothersquared/</link>
-      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/games/mothersquared/</guid>
-      <description>An upcoming fan remake of the sleeper hit SNES game, EarthBound.</description>
+      <description>Released in 1995 in the West, and 1994 in Japan as MOTHER 2. MOTHER² is a full-length ground-up reimagining of the game in a new engine targeting PC and Valve handheld devices.</description>
     </item>
     <item>
       <title>🎼 ModeMash!</title>
@@ -41,7 +41,7 @@
       <link>//localhost:1313/blog/madux-summer/</link>
       <pubDate>Sun, 18 Aug 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/blog/madux-summer/</guid>
-      <description>This case study examines the tutorial segment of the SNES game EarthBound, highlighting key areas such as navigation and combat mechanics that should be refined in the fan remake MOTHER² to enhance accessibility for modern players while preserving the game&amp;#39;s unique charm. 🧑‍🔬🎮️</description>
+      <description>This case study examines the tutorial section of the SNES game EarthBound, highlighting key areas such as navigation and UI controls that should be refined in the fan remake MOTHER² to enhance accessibility for modern players while preserving the game&amp;#39;s unique charm. 🧑‍🔬🎮️</description>
     </item>
     <item>
       <title>Case Study: Beginning User Research for a Fan Game</title>

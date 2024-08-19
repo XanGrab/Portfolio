@@ -1,24 +1,45 @@
 ---
 title: "🌏️ MOTHER²"
-date: 2024-01-05
+date: 2024-08-19
 draft: false
 weight: 2
 cover:
-    image: img/motherkids3.png
+    image: img/moonside.png
     alt: "Mother Squared Cover Image"
     hidden: true
 revealInHomeList: true
 summary: "An upcoming fan remake of the sleeper hit SNES game, EarthBound."
-description: "An upcoming fan remake of the sleeper hit SNES game, EarthBound."
-tags: ["Godot", "Game", "Upcoming"]
+description: "Released in 1995 in the West, and 1994 in Japan as MOTHER 2. MOTHER² is a full-length ground-up reimagining of the game in a new engine targeting PC and Valve handheld devices."
+tags: ["Godot", "Game", "Upcoming", "Programmer", "UX Designer"]
 ---
+
+## Me & MOTHER²
+
+My role in the MotherSquared development team is two fold as both a developer and UX designer. I am responsible recreating a number of the games features and additions, as well as the researching and designing improvements focused on player experience.
+
+## 🎊 New Year New Trailer!
+
+{{< youtube ASr3EEwe7tE >}}
+
+MOTHER²'s screen resolution has been enlarged to be able to view more of the game world! This was a highly-requested change that we were fortunately able to accommodate. Overworld and battle UI has been adjusted accordingly.
+
+You can buy items from any shop in bulk. A counter will display and allows the player to buy multiple items, assuming you have inventory space and are able to afford them.
+
+🚲 Bikes are back!️ This time all party members are eventually able to use them via a momentum-based system! This works well in conjunction with the running mechanic. As an added bonus, bikes are able to be delivered straight to you by calling Punk-Sure, the bike shop.
+
+Plus, many more returning and new features are in the works... 🎁
+
+## 2023 Mother Direct Trailer
 
 ## {{< youtube zWeF1jRstLk >}}
 
-Released in 1995 in the West, and 1994 in Japan as MOTHER 2. MOTHER² is a full-length ground-up reimagining of the game in a new engine targeting PC and Valve handheld devices.
+## Screenshots
 
 {{< figure src="./img/gameplay.png" align="center" caption="_Gameplay screenshot of MOTHER²_" >}}
 
 ---
 
-## [Find Us On X (Twitter)](https://twitter.com/mother__squared?lang=en)
+## Come Follow Us!
+
+-   [X (Twitter)](https://twitter.com/mother__squared?lang=en)
+-   [Discord](https://t.co/BpSTIfzr5r)
