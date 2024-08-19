@@ -24,7 +24,7 @@ hugo serve
 - [ ] Tags on posts
 - [ ] Improve Search Feature (see fireship.io)
 - [ ] Tab selection padding
-- [ ] Linked images hover effect
+- [ ] [Image Focus Effect](https://adityatelange.in/blog/hugo-image-zoom-in/)
 - [ ] New Icons & Hamburger Menu
 - [ ] Update Hugo version?
 - [ ] Games 😈🎮
