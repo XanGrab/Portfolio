@@ -14,6 +14,9 @@
     <loc>//localhost:1313/games/notimetohorsefly/</loc>
     <lastmod>2022-10-03T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/blog/madux-summer/</loc>
+    <lastmod>2024-08-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/blog/madux-fall/</loc>
     <lastmod>2024-08-05T00:00:00+00:00</lastmod>
   </url><url>
@@ -36,24 +39,33 @@
     <lastmod>2024-06-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/blog/</loc>
-    <lastmod>2024-08-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/development/</loc>
-    <lastmod>2024-08-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/mad--ux/</loc>
+    <lastmod>2024-08-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/mother/</loc>
-    <lastmod>2024-08-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/research/</loc>
-    <lastmod>2024-08-05T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/tags/playtest/</loc>
+    <lastmod>2024-08-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/</loc>
-    <lastmod>2024-08-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/usability-testing/</loc>
+    <lastmod>2024-08-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/ux/</loc>
-    <lastmod>2024-08-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/</loc>
+    <lastmod>2024-08-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/research/</loc>
     <lastmod>2024-08-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/accessibility/</loc>

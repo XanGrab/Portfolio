@@ -11,7 +11,7 @@ cover:
 summary: "Summary of the research conducted as a part of the fall term of my user experience capstone. 👨‍🔬🎮️"
 description: "Discovering alongside my team how games user research can be used to better illustrate our target players' experience points and expectations for our fan recreation. Read on to learn about my first steps into the realm of games user research studying the fan-game MOTHER² in Fall of 2024 as part of the UW–Madison UX Design Capstone. 👨‍🔬🎮️"
 ShowToc: true
-tags: ["UX", "Research", "Development", "MOTHER²"]
+tags: ["UX", "Mad--UX", "Research", "Development", "MOTHER²"]
 ---
 
 ## What Does Games User Research Look Like for a Fan Game?

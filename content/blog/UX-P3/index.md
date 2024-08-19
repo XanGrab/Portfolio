@@ -11,7 +11,7 @@ cover:
     hidden: true
 summary: "Prepairing to conduct a task-based research study 👨‍🔬🎮️"
 description: "Over the course of the summer, these short portfolio entries describe my research process for my user experience research capstone."
-tags: ["UX", "Research", "Development", "Parsec", "Google Analytics"]
+tags: ["UX", "Mad--UX", "Research", "Development", "Parsec", "Google Analytics"]
 ---
 
 _This is the third entry in my UX portfolio series. If you have not read the previous one, you can find it [here](../ux-p2/)_ 👈️

@@ -11,7 +11,7 @@ cover:
     hidden: true
 summary: "A brief interlude from our summer user experience study in order to deep our knowledge ofaccessibility standards & Information Architecture for UX 👨‍🔬🎮️"
 description: "Over the course of the summer, these short portfolio entries describe my research process for my user experience research capstone."
-tags: ["UX", "Research", "Accessibility"]
+tags: ["UX", "Mad--UX", "Research", "Accessibility"]
 ---
 
 _This is the fifth entry in my UX portfolio series. If you have not read the previous one, you can find it [here](../ux-p4/)_ 👈️

@@ -11,7 +11,8 @@ cover:
     hidden: true
 summary: "Exploring Analytics in Google Analytics 4 & Self-Reported Metrics"
 description: "Over the course of the summer, these short portfolio entries describe my research process for my user experience research capstone."
-tags: ["UX", "Research", "Development", "Firebase", "Google Analytics"]
+tags:
+    ["UX", "Mad--UX", "Research", "Development", "Firebase", "Google Analytics"]
 ---
 
 _This is the second entry in my UX portfolio series. If you have not read the first one, you can find it [here](../ux-p1/)_ 👈️

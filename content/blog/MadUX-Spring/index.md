@@ -11,7 +11,7 @@ cover:
 summary: "Summary of interface redesigns created for MOTHER² for the spring term of my user experience capstone. ✏️🎮️"
 description: "Following the research conducted in the fall, the spring term was spent redesigning the broken tool repair sequence for MOTHER². This case study explores the user-centered design process used to develop those interfaces. ✏️🎮️"
 ShowToc: true
-tags: ["UX", "Research", "Development", "MOTHER²"]
+tags: ["UX", "Mad--UX", "Research", "Development", "MOTHER²"]
 ---
 
 {{< video src="./video/final-prototype.webm" align="center" loop="true" width="100%" autoplay="true" controls="false" >}}
