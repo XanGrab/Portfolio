@@ -3,7 +3,7 @@ title: "MAD UX: Process Blog #4"
 date: 2024-07-22
 searchHidden: true
 draft: true
-weight: 5
+weight: 6
 cover:
     image: "img/cover.png"
     alt: "Page 4 of the EarthBound Player's Guide to utilized as a quick reference for participants"
@@ -38,4 +38,4 @@ In response to participant comments made while learning the controls of the game
 
 {{< figure src="./img/eb-controls-quick-reference.png" align="center" caption="_Page 4 of the EarthBound Player's Guide to utilized as a quick reference for participants_" >}}
 
-_The UX portfolio series continues on. You can continue reading [here](../ux-p5/)._ ⏩️
+_The UX portfolio series continues on. You can continue reading [here](../madux-summer/)._ ⏩️

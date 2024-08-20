@@ -3,7 +3,7 @@ title: "Case Study: Redesigning Randomness"
 date: 2024-08-03
 searchHidden: true
 draft: true
-weight: 5
+weight: 2
 cover:
     image: img/cover.png
     alt: "(Cover Image) Case Study: Redesigning Randomness in MOTHER²"

@@ -3,7 +3,7 @@ title: "MAD UX: Process Blog #2"
 date: 2024-06-18
 searchHidden: true
 draft: true
-weight: 5
+weight: 4
 cover:
     image: img/cover.png
     alt: "Process Log #2: _Flood-It!_ "

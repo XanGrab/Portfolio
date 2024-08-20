@@ -42,10 +42,6 @@ Plus, many more returning and new features are in the works... 🎁
 
 ## {{< youtube zWeF1jRstLk >}}
 
-## Screenshots
-
-{{< figure src="./img/gameplay.png" align="center" caption="_Gameplay screenshot of MOTHER²_" >}}
-
 ---
 
 ## Come Follow Us!

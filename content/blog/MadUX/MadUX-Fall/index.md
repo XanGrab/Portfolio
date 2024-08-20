@@ -3,7 +3,7 @@ title: "Case Study: Beginning User Research for a Fan Game"
 date: 2024-08-05
 searchHidden: true
 draft: true
-weight: 5
+weight: 1
 cover:
     image: img/cover.png
     alt: "(Cover Image) MAD UX: Case Study: Beginning User Research for a Fan Game"

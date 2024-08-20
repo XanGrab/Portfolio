@@ -9,6 +9,13 @@
     <lastBuildDate>Mon, 19 Aug 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Case Study: Beginning User Research for a Fan Game</title>
+      <link>//localhost:1313/blog/madux/madux-fall/</link>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/madux/madux-fall/</guid>
+      <description>Discovering alongside my team how games user research can be used to better illustrate our target players&amp;#39; experience points and expectations for our fan recreation. Read on to learn about my first steps into the realm of games user research studying the fan-game MOTHER² in Fall of 2024 as part of the UW–Madison UX Design Capstone. 👨‍🔬🎮️</description>
+    </item>
+    <item>
       <title>🐳 Wake: Tales from the Aqualab</title>
       <link>//localhost:1313/games/wake/</link>
       <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
@@ -21,6 +28,20 @@
       <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/games/mothersquared/</guid>
       <description>Released in 1995 in the West, and 1994 in Japan as MOTHER 2. MOTHER² is a full-length ground-up reimagining of the game in a new engine targeting PC and Valve handheld devices.</description>
+    </item>
+    <item>
+      <title>Case Study: Redesigning Randomness</title>
+      <link>//localhost:1313/blog/madux/madux-spring/</link>
+      <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/madux/madux-spring/</guid>
+      <description>Following the research conducted in the fall, the spring term was spent redesigning the broken tool repair sequence for MOTHER². This case study explores the user-centered design process used to develop those interfaces. ✏️🎮️</description>
+    </item>
+    <item>
+      <title>MAD UX: Process Blog #1</title>
+      <link>//localhost:1313/blog/madux/ux-p1/</link>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/madux/ux-p1/</guid>
+      <description>Over the course of the summer 2024 term, these short portfolio entries describe my research process for my user experience research capstone.</description>
     </item>
     <item>
       <title>🎼 ModeMash!</title>
@@ -37,45 +58,10 @@
       <description>A top-down, rogue-lite, puzzle game set in the lifespan of a horsefly created for the 2022 Ludum Dare Jam</description>
     </item>
     <item>
-      <title>MAD UX: Usability Playtest Retrospective</title>
-      <link>//localhost:1313/blog/madux/ux-p6/</link>
-      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/blog/madux/ux-p6/</guid>
-      <description>👨‍🔬🎮️</description>
-    </item>
-    <item>
-      <title>Case Study: How EarthBound Teaches Players to Play</title>
-      <link>//localhost:1313/blog/madux/madux-summer/</link>
-      <pubDate>Sun, 18 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/blog/madux/madux-summer/</guid>
-      <description>This case study examines the tutorial section of the SNES game EarthBound, highlighting key areas such as navigation and UI controls that should be refined in the fan remake MOTHER² to enhance accessibility for modern players while preserving the game&amp;#39;s unique charm. 🧑‍🔬🎮️</description>
-    </item>
-    <item>
-      <title>Case Study: Beginning User Research for a Fan Game</title>
-      <link>//localhost:1313/blog/madux/madux-fall/</link>
-      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/blog/madux/madux-fall/</guid>
-      <description>Discovering alongside my team how games user research can be used to better illustrate our target players&amp;#39; experience points and expectations for our fan recreation. Read on to learn about my first steps into the realm of games user research studying the fan-game MOTHER² in Fall of 2024 as part of the UW–Madison UX Design Capstone. 👨‍🔬🎮️</description>
-    </item>
-    <item>
-      <title>Case Study: Redesigning Randomness</title>
-      <link>//localhost:1313/blog/madux/madux-spring/</link>
-      <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/blog/madux/madux-spring/</guid>
-      <description>Following the research conducted in the fall, the spring term was spent redesigning the broken tool repair sequence for MOTHER². This case study explores the user-centered design process used to develop those interfaces. ✏️🎮️</description>
-    </item>
-    <item>
-      <title>MAD UX: Web Accessability Interlude</title>
-      <link>//localhost:1313/blog/madux/ux-p5/</link>
-      <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/blog/madux/ux-p5/</guid>
-      <description>Over the course of the summer, these short portfolio entries describe my research process for my user experience research capstone.</description>
-    </item>
-    <item>
-      <title>MAD UX: Process Blog #4</title>
-      <link>//localhost:1313/blog/madux/ux-p4/</link>
-      <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/blog/madux/ux-p4/</guid>
+      <title>MAD UX: Process Blog #2</title>
+      <link>//localhost:1313/blog/madux/ux-p2/</link>
+      <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/madux/ux-p2/</guid>
       <description>Over the course of the summer, these short portfolio entries describe my research process for my user experience research capstone.</description>
     </item>
     <item>
@@ -86,18 +72,32 @@
       <description>Over the course of the summer, these short portfolio entries describe my research process for my user experience research capstone.</description>
     </item>
     <item>
-      <title>MAD UX: Process Blog #2</title>
-      <link>//localhost:1313/blog/madux/ux-p2/</link>
-      <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/blog/madux/ux-p2/</guid>
+      <title>MAD UX: Process Blog #4</title>
+      <link>//localhost:1313/blog/madux/ux-p4/</link>
+      <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/madux/ux-p4/</guid>
       <description>Over the course of the summer, these short portfolio entries describe my research process for my user experience research capstone.</description>
     </item>
     <item>
-      <title>MAD UX: Process Blog #1</title>
-      <link>//localhost:1313/blog/madux/ux-p1/</link>
-      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/blog/madux/ux-p1/</guid>
-      <description>Over the course of the summer 2024 term, these short portfolio entries describe my research process for my user experience research capstone.</description>
+      <title>MAD UX: Web Accessability Interlude</title>
+      <link>//localhost:1313/blog/madux/ux-p5/</link>
+      <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/madux/ux-p5/</guid>
+      <description>Over the course of the summer, these short portfolio entries describe my research process for my user experience research capstone.</description>
+    </item>
+    <item>
+      <title>Case Study: How EarthBound Teaches Players to Play</title>
+      <link>//localhost:1313/blog/madux/madux-summer/</link>
+      <pubDate>Sun, 18 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/madux/madux-summer/</guid>
+      <description>This case study examines the tutorial section of the SNES game EarthBound, highlighting key areas such as navigation and UI controls that should be refined in the fan remake MOTHER² to enhance accessibility for modern players while preserving the game&amp;#39;s unique charm. 🧑‍🔬🎮️</description>
+    </item>
+    <item>
+      <title>MAD UX: Usability Playtest Retrospective</title>
+      <link>//localhost:1313/blog/madux/ux-p6/</link>
+      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/madux/ux-p6/</guid>
+      <description>👨‍🔬🎮️</description>
     </item>
     <item>
       <title>whoami</title>

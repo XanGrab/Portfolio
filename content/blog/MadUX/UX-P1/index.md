@@ -3,7 +3,7 @@ title: "MAD UX: Process Blog #1"
 date: 2024-06-03
 searchHidden: true
 draft: true
-weight: 5
+weight: 3
 cover:
     image: img/cover.png
     alt: "Process Log #1 (Cover Image)"

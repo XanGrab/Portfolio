@@ -3,7 +3,7 @@ title: "Case Study: How EarthBound Teaches Players to Play"
 date: 2024-08-18
 searchHidden: true
 draft: true
-weight: 5
+weight: 8
 cover:
     image: img/cover.png
     alt: "(Cover Image) Case Study: Redesigning Randomness in MOTHER²"
@@ -15,11 +15,13 @@ tags:
     ["UX", "Mad--UX", "Playtest", "Usability Testing", "Development", "MOTHER²"]
 ---
 
+_What to learn more about the process of planning this usability test? Checkout out my [UX portfolio series!](../ux-p1/)_
+
 ## 📜 **Prologue**
 
 _EarthBound_, originally released in 1995 for the Super Nintendo Entertainment System, is a cult-classic RPG known for its quirky humor and unique setting. Despite its initial lukewarm reception, the game has since garnered a devoted fanbase and is often cited as a masterpiece of its genre.
 
-Given its iconic status, any attempts to remake or modernize _EarthBound_ must carefully preserve its original charm while addressing the usability issues that could alienate modern players. This case study focuses on the usability testing of the original _EarthBound_, conducted to identify usability challenges or pain points that modern players might face. Our aim was to extract insights that could inform the development of a fan-made remake [_MOTHER²_](../../games/mothersquared/), ensuring it meets the expectations of both new players and long-time fans.
+Given its iconic status, any attempts to remake or modernize _EarthBound_ must carefully preserve its original charm while addressing the usability issues that could alienate modern players. This case study focuses on the usability testing of the original _EarthBound_, conducted to identify usability challenges or pain points that modern players might face. Our aim was to extract insights that could inform the development of a fan-made remake [_MOTHER²_](../../../games/mothersquared/), ensuring it meets the expectations of both new players and long-time fans.
 
 ## 🎯 **Objectives**
 
@@ -85,3 +87,5 @@ Based on the findings from the usability testing of EarthBound, several design r
 The usability testing of _EarthBound_ provided valuable insights into the challenges and strengths of the original game, particularly in the context of modern gaming expectations. EarthBound’s unique sense of humor continues to resonate with fans today garnering laughs from nearly every playtester at various points in the game. That being said, certain aspects of the game, such as overworld navigation present usability challenges for newer players.
 
 These insights will prove invaluable for the development of _MOTHER²_. By implementing the recommended design changes, the remake can retain the essence of _EarthBound_ while enhancing its accessibility and appeal to a broader audience. Future usability testing and log analytics will be essential in refining the remake’s design, ensuring it meets the high standards set by the original game and delivers an enjoyable experience for all players.
+
+_To read the full case study retrospective continue reading [here](../ux-p6/)._ ⏩️

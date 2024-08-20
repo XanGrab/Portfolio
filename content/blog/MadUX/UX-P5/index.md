@@ -3,7 +3,7 @@ title: "MAD UX: Web Accessability Interlude"
 date: 2024-08-03
 searchHidden: true
 draft: true
-weight: 5
+weight: 7
 cover:
     image: "img/cover.png"
     alt: "Process Log #5 (Cover Image)"
@@ -40,4 +40,4 @@ If you are looking to learn more about how the games industry is changing to bec
 
 ## {{< youtube NInNVEHj_G4 >}}
 
-_The UX portfolio series continues on. In the next entry you can read all about conducting the usability test in this [case study](../madux-summer/)._ ⏩️
+_The UX portfolio series continues on. In the next entry you can read all about conducting the usability test in this [case study](../ux-p6/)._ ⏩️
