@@ -26,5 +26,4 @@ hugo serve
 - [ ] Tab selection padding
 - [ ] [Image Focus Effect](https://adityatelange.in/blog/hugo-image-zoom-in/)
 - [ ] New Icons & Hamburger Menu
-- [ ] Update Hugo version?
 - [ ] Games 😈🎮
