@@ -6,7 +6,7 @@ draft: true
 weight: 5
 cover:
     image: "img/cover.png"
-    alt: "TODO"
+    alt: "Process Log #5 (Cover Image)"
     caption: "TODO"
     hidden: true
 summary: "A brief interlude from our summer user experience study in order to deep our knowledge ofaccessibility standards & Information Architecture for UX 👨‍🔬🎮️"
@@ -38,6 +38,6 @@ It is important to note, however, that accessibility for digital games has only 
 
 If you are looking to learn more about how the games industry is changing to become more inclusive: check out [this playlist](https://www.youtube.com/watch?v=NInNVEHj_G4&list=PLc38fcMFcV_vvWOhMDriBlVocTZ8mKQzR&pp=iAQB) by [Game Maker's Toolkit](https://www.youtube.com/channel/UCqJ-Xo29CKyLTjn6z2XwYAw).
 
-{{< youtube NInNVEHj_G4 >}}
+## {{< youtube NInNVEHj_G4 >}}
 
-<!-- _The UX portfolio series continues on. You can continue reading [here](../ux-p6/)._ ⏩️ -->
+_The UX portfolio series continues on. In the next entry you can read all about conducting the usability test in this [case study](../madux-summer/)._ ⏩️
