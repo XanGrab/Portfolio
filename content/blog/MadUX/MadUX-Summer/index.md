@@ -43,7 +43,7 @@ This study employed a combination of observational research, task analysis, and 
 
 1. Start a new game and create a save file.
 2. Explore & exit the player’s home.
-3. Navigate to the crash site (Leave the house, talk to Pokey, and return home).
+3. Navigate to and from the crash site.
 4. Complete the first quest of the game (escort Picky home).
 5. Complete all combat encounters of the tutorial segment.
 
