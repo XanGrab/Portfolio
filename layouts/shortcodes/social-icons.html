@@ -1,0 +1,11 @@
+{{ $postIcons := .Page.Params.socialIcons }}
+
+{{ $align := .Get "align" | default "center" }}
+
+<div class="social-icons" {{ with $align }}align="{{ . }}"{{ end }}>
+  {{ range $postIcons }}
+    <a href="{{ .url | safeURL }}" target="_blank" rel="noopener noreferrer me" title="{{ (.title | default .name) | title }}">
+      {{ partial "svg.html" . }}
+    </a>
+  {{ end }}
+</div>

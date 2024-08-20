@@ -11,6 +11,11 @@ revealInHomeList: true
 summary: "An upcoming fan remake of the sleeper hit SNES game, EarthBound."
 description: "Released in 1995 in the West, and 1994 in Japan as MOTHER 2. MOTHER² is a full-length ground-up reimagining of the game in a new engine targeting PC and Valve handheld devices."
 tags: ["Godot", "Game", "Upcoming", "Programmer", "UX Designer"]
+socialIcons:
+    - name: "discord"
+      url: "https://t.co/BpSTIfzr5r"
+    - name: "x"
+      url: "https://twitter.com/mother__squared?lang=en"
 ---
 
 > ⚠️ **Disclaimer:** MOTHER² is an **_unofficial, fan-made_** game and is not affiliated, associated, authorized, endorsed by, or in any way connected with Nintendo of America, Inc., Shigesato Itoi, HAL Laboratory Inc., Nintendo Co. LTD, or any of its subsidiaries or its affiliates.
@@ -45,5 +50,4 @@ Plus, many more returning and new features are in the works... 🎁
 
 ## Come Follow Us!
 
--   [X (Twitter)](https://twitter.com/mother__squared?lang=en)
--   [Discord](https://t.co/BpSTIfzr5r)
+{{< social-icons align="left">}}
