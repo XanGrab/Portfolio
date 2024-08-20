@@ -6,7 +6,7 @@ draft: true
 weight: 8
 cover:
     image: img/cover.png
-    alt: "(Cover Image) Case Study: Redesigning Randomness in MOTHER²"
+    alt: "(Cover Image) Case Study: How EarthBound Teaches its Players to Play"
     hidden: true
 summary: "Summary of the usability study created to study the tutorial of _EathBound_ for the summer term of my user experience capstone. 🧑‍🔬🎮️"
 description: "This case study examines the tutorial section of the SNES game EarthBound, highlighting key areas such as navigation and UI controls that should be refined in the fan remake MOTHER² to enhance accessibility for modern players while preserving the game's unique charm. 🧑‍🔬🎮️"

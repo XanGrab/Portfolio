@@ -2,11 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>//localhost:1313/blog/madux/madux-fall/</loc>
+    <lastmod>2024-08-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/games/wake/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/games/mothersquared/</loc>
     <lastmod>2024-08-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/blog/madux/madux-spring/</loc>
+    <lastmod>2024-08-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/blog/madux/ux-p1/</loc>
+    <lastmod>2024-06-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/games/modemash/</loc>
     <lastmod>2023-12-15T00:00:00+00:00</lastmod>
@@ -14,32 +23,23 @@
     <loc>//localhost:1313/games/notimetohorsefly/</loc>
     <lastmod>2022-10-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/madux/ux-p6/</loc>
-    <lastmod>2024-08-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/blog/madux/madux-summer/</loc>
-    <lastmod>2024-08-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/blog/madux/madux-fall/</loc>
-    <lastmod>2024-08-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/blog/madux/madux-spring/</loc>
-    <lastmod>2024-08-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/blog/madux/ux-p5/</loc>
-    <lastmod>2024-08-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/blog/madux/ux-p4/</loc>
-    <lastmod>2024-07-22T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/blog/madux/ux-p2/</loc>
+    <lastmod>2024-06-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/blog/madux/ux-p3/</loc>
     <lastmod>2024-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/madux/ux-p2/</loc>
-    <lastmod>2024-06-18T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/blog/madux/ux-p4/</loc>
+    <lastmod>2024-07-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/madux/ux-p1/</loc>
-    <lastmod>2024-06-03T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/blog/madux/ux-p5/</loc>
+    <lastmod>2024-08-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/blog/madux/madux-summer/</loc>
+    <lastmod>2024-08-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/blog/madux/ux-p6/</loc>
+    <lastmod>2024-08-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/blog/</loc>
     <lastmod>2024-08-19T00:00:00+00:00</lastmod>
