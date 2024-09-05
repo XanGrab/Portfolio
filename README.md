@@ -19,11 +19,3 @@ git submodule update
 ```
 hugo serve
 ```
-
-### 💡 TODO
-- [ ] Tags on posts
-- [ ] Improve Search Feature (see fireship.io)
-- [ ] Tab selection padding
-- [ ] [Image Focus Effect](https://adityatelange.in/blog/hugo-image-zoom-in/)
-- [ ] New Icons & Hamburger Menu
-- [ ] Games 😈🎮
