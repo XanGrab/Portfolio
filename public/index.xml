@@ -6,8 +6,17 @@
     <description>Recent content on XanderGrab</description>
     <generator>Hugo -- 0.132.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dwarf Fortress Journal Entry #1</title>
+      <link>//localhost:1313/blog/df-journal-i/</link>
+      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/df-journal-i/</guid>
+      <description>Disclaimer: This journal entry is being uploaded a tad late, as I spent a fair amount of time troubleshooting some technical difficulties (described below) which delayed my writing of this entry.
+Please forgive my tardiness 🙏
+Embarking in the Darkness 🕯️ Heading to the Bay 12 Games website, I downloaded a fresh (and free!) copy of Dwarf Fortress (hereafter DF) to my PC. I am teeming with excitement to play DF for the first time.</description>
+    </item>
     <item>
       <title>Case Study: Beginning User Research for a Fan Game</title>
       <link>//localhost:1313/blog/madux/madux-fall/</link>
