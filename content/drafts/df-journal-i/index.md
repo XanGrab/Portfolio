@@ -1,7 +1,6 @@
 ---
 title: "Dwarf Fortress Journal Entry #1"
 date: 2024-09-15
-hidden: true
 searchHidden: true
 draft: true
 weight: 1
@@ -11,9 +10,7 @@ cover:
 tags: ["Play Journal"]
 ---
 
-> Disclaimer: This journal entry is being uploaded a tad late, as I spent a fair amount of time troubleshooting some technical difficulties (described below) which delayed my writing of this entry.
->
-> Please forgive my tardiness 🙏
+_The Dwarf Fortress journey continues! You can find the nex entry [here](../df-journal-ii/)._ ⏩
 
 # Embarking in the Darkness 🕯️
 
