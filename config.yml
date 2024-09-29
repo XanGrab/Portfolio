@@ -18,7 +18,7 @@ params:
     profileMode:
         enabled: false
         title: 👋 Hello there! I'm Xander
-        subtitle: "(aka XanderGrab) I'm a Game Developer and Designer as well as an all-around Games Hobbyist. I'm passionate about creating transformational or applied games."
+        subtitle: "(aka XanderGrab) I'm a Game Designer/Developer as well as an all-around Games Hobbyist. I'm passionate about creating transformational games, studying play, and exploring how they teach."
         imageUrls:
             ["assets/icons/ProfessionalPhoto.JPG", "assets/icons/FancyIcon.png"]
         imageTitle: "My Icon"
@@ -29,8 +29,8 @@ params:
               url: /whoami
 
     homeInfoParams:
-        Title: 👋 Hello there! I'm Xander
-        Content: "(aka XanderGrab) I'm a Game Developer and Designer as well as an all-around Games Hobbyist. I'm passionate about creating transformational or applied games."
+        title: 👋 Hello there! I'm Xander
+        content: "(aka XanderGrab) I'm a Game Designer/Developer as well as an all-around Games Hobbyist. I'm passionate about creating transformational games, studying play, and exploring how they teach."
 
     socialIcons:
         - name: github
