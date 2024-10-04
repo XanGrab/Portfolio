@@ -64,7 +64,7 @@ params:
 menu:
     main:
         - identifier: Resume
-          name: "📜 CV"
+          name: "📜 Resume"
           url: /assets/docs/grabowski_cv.pdf
           weight: 5
         - identifier: Contact
