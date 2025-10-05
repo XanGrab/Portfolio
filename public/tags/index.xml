@@ -2,150 +2,143 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on XanderGrab</title>
-    <link>//localhost:1313/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on XanderGrab</description>
-    <generator>Hugo -- 0.132.1</generator>
+    <generator>Hugo -- 0.132.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Play Journal</title>
-      <link>//localhost:1313/tags/play-journal/</link>
-      <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/play-journal/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate>Mon, 19 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Accessibility</title>
-      <link>//localhost:1313/tags/accessibility/</link>
+      <link>/tags/accessibility/</link>
       <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/accessibility/</guid>
+      <guid>/tags/accessibility/</guid>
       <description></description>
     </item>
     <item>
       <title>Game</title>
-      <link>//localhost:1313/tags/game/</link>
+      <link>/tags/game/</link>
       <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/game/</guid>
+      <guid>/tags/game/</guid>
       <description></description>
     </item>
     <item>
       <title>Godot</title>
-      <link>//localhost:1313/tags/godot/</link>
+      <link>/tags/godot/</link>
       <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/godot/</guid>
+      <guid>/tags/godot/</guid>
       <description></description>
     </item>
     <item>
       <title>Mad--UX</title>
-      <link>//localhost:1313/tags/mad--ux/</link>
+      <link>/tags/mad--ux/</link>
       <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/mad--ux/</guid>
+      <guid>/tags/mad--ux/</guid>
       <description></description>
     </item>
     <item>
       <title>Programmer</title>
-      <link>//localhost:1313/tags/programmer/</link>
+      <link>/tags/programmer/</link>
       <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/programmer/</guid>
+      <guid>/tags/programmer/</guid>
       <description></description>
     </item>
     <item>
       <title>Research</title>
-      <link>//localhost:1313/tags/research/</link>
+      <link>/tags/research/</link>
       <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/research/</guid>
+      <guid>/tags/research/</guid>
       <description></description>
     </item>
     <item>
       <title>Upcoming</title>
-      <link>//localhost:1313/tags/upcoming/</link>
+      <link>/tags/upcoming/</link>
       <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/upcoming/</guid>
+      <guid>/tags/upcoming/</guid>
       <description></description>
     </item>
     <item>
       <title>UX</title>
-      <link>//localhost:1313/tags/ux/</link>
+      <link>/tags/ux/</link>
       <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/ux/</guid>
+      <guid>/tags/ux/</guid>
       <description></description>
     </item>
     <item>
       <title>UX Designer</title>
-      <link>//localhost:1313/tags/ux-designer/</link>
+      <link>/tags/ux-designer/</link>
       <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/ux-designer/</guid>
+      <guid>/tags/ux-designer/</guid>
       <description></description>
     </item>
     <item>
       <title>Development</title>
-      <link>//localhost:1313/tags/development/</link>
+      <link>/tags/development/</link>
       <pubDate>Sun, 18 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/development/</guid>
+      <guid>/tags/development/</guid>
       <description></description>
     </item>
     <item>
       <title>MOTHER²</title>
-      <link>//localhost:1313/tags/mother/</link>
+      <link>/tags/mother/</link>
       <pubDate>Sun, 18 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/mother/</guid>
+      <guid>/tags/mother/</guid>
       <description></description>
     </item>
     <item>
       <title>Playtest</title>
-      <link>//localhost:1313/tags/playtest/</link>
+      <link>/tags/playtest/</link>
       <pubDate>Sun, 18 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/playtest/</guid>
+      <guid>/tags/playtest/</guid>
       <description></description>
     </item>
     <item>
       <title>Usability Testing</title>
-      <link>//localhost:1313/tags/usability-testing/</link>
+      <link>/tags/usability-testing/</link>
       <pubDate>Sun, 18 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/usability-testing/</guid>
+      <guid>/tags/usability-testing/</guid>
       <description></description>
     </item>
     <item>
       <title>Parsec</title>
-      <link>//localhost:1313/tags/parsec/</link>
+      <link>/tags/parsec/</link>
       <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/parsec/</guid>
+      <guid>/tags/parsec/</guid>
       <description></description>
     </item>
     <item>
       <title>Published</title>
-      <link>//localhost:1313/tags/published/</link>
+      <link>/tags/published/</link>
       <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/published/</guid>
+      <guid>/tags/published/</guid>
       <description></description>
     </item>
     <item>
       <title>Unity</title>
-      <link>//localhost:1313/tags/unity/</link>
+      <link>/tags/unity/</link>
       <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/unity/</guid>
+      <guid>/tags/unity/</guid>
       <description></description>
     </item>
     <item>
       <title>Google Analytics</title>
-      <link>//localhost:1313/tags/google-analytics/</link>
+      <link>/tags/google-analytics/</link>
       <pubDate>Sun, 07 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/google-analytics/</guid>
+      <guid>/tags/google-analytics/</guid>
       <description></description>
     </item>
     <item>
       <title>Firebase</title>
-      <link>//localhost:1313/tags/firebase/</link>
+      <link>/tags/firebase/</link>
       <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/firebase/</guid>
+      <guid>/tags/firebase/</guid>
       <description></description>
     </item>
     <item>
       <title>Game Jam</title>
-      <link>//localhost:1313/tags/game-jam/</link>
+      <link>/tags/game-jam/</link>
       <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/game-jam/</guid>
+      <guid>/tags/game-jam/</guid>
       <description></description>
     </item>
   </channel>

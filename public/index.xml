@@ -2,146 +2,122 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>XanderGrab</title>
-    <link>//localhost:1313/</link>
+    <link>/</link>
     <description>Recent content on XanderGrab</description>
-    <generator>Hugo -- 0.132.1</generator>
+    <generator>Hugo -- 0.132.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Dwarf Fortress Journal Entry #2</title>
-      <link>//localhost:1313/drafts/df-journal-ii/</link>
-      <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/drafts/df-journal-ii/</guid>
-      <description>This is the second entry in my Dwarf Fortress journal. If you have not read the first one, you can find it here 👈️
-This week, I decided to return from the murky depths of my Dwarf Fortress and get a better sense of my surroundings.
-After blindly stumbling through the early hours of my first play session, I decided that it may be beneficial to explore the DF community and see what tips and tricks it might offer before my next outing.</description>
-    </item>
-    <item>
-      <title>Dwarf Fortress Journal Entry #3</title>
-      <link>//localhost:1313/drafts/df-journal-iii/</link>
-      <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/drafts/df-journal-iii/</guid>
-      <description>🧔⚒️💎 Dwarf work in progress</description>
-    </item>
-    <item>
-      <title>Dwarf Fortress Journal Entry #1</title>
-      <link>//localhost:1313/drafts/df-journal-i/</link>
-      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/drafts/df-journal-i/</guid>
-      <description>The Dwarf Fortress journey continues! You can find the nex entry here. ⏩
-Embarking in the Darkness 🕯️ Heading to the Bay 12 Games website, I downloaded a fresh (and free!) copy of Dwarf Fortress (hereafter DF) to my PC. I am teeming with excitement to play DF for the first time. In passing, I have overheard whispers of this game as a developer making me aware of its contributions to the procedural generation and construction-sim space.</description>
-    </item>
+    <lastBuildDate>Mon, 19 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Case Study: Beginning User Research for a Fan Game</title>
-      <link>//localhost:1313/blog/madux/madux-fall/</link>
+      <link>/blog/madux/madux-fall/</link>
       <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/blog/madux/madux-fall/</guid>
+      <guid>/blog/madux/madux-fall/</guid>
       <description>Discovering alongside my team how games user research can be used to better illustrate our target players&amp;#39; experience points and expectations for our fan recreation. Read on to learn about my first steps into the realm of games user research studying the fan-game MOTHER² in Fall of 2024 as part of the UW–Madison UX Design Capstone. 👨‍🔬🎮️</description>
     </item>
     <item>
       <title>🐳 Wake: Tales from the Aqualab</title>
-      <link>//localhost:1313/games/wake/</link>
+      <link>/games/wake/</link>
       <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/games/wake/</guid>
+      <guid>/games/wake/</guid>
       <description>An online game to teach middle school students science research practices in the Life Sciences</description>
     </item>
     <item>
       <title>🌏️ MOTHER²</title>
-      <link>//localhost:1313/games/mothersquared/</link>
+      <link>/games/mothersquared/</link>
       <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/games/mothersquared/</guid>
+      <guid>/games/mothersquared/</guid>
       <description>Released in 1995 in the West, and 1994 in Japan as MOTHER 2. MOTHER² is a full-length ground-up reimagining of the game in a new engine targeting PC and Valve handheld devices.</description>
     </item>
     <item>
       <title>Case Study: Redesigning Randomness</title>
-      <link>//localhost:1313/blog/madux/madux-spring/</link>
+      <link>/blog/madux/madux-spring/</link>
       <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/blog/madux/madux-spring/</guid>
+      <guid>/blog/madux/madux-spring/</guid>
       <description>Following the research conducted in the fall, the spring term was spent redesigning the broken tool repair sequence for MOTHER². This case study explores the user-centered design process used to develop those interfaces. ✏️🎮️</description>
     </item>
     <item>
       <title>MAD UX: Process Blog #1</title>
-      <link>//localhost:1313/blog/madux/ux-p1/</link>
+      <link>/blog/madux/ux-p1/</link>
       <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/blog/madux/ux-p1/</guid>
+      <guid>/blog/madux/ux-p1/</guid>
       <description>Over the course of the summer 2024 term, these short portfolio entries describe my research process for my user experience research capstone.</description>
     </item>
     <item>
       <title>🎼 ModeMash!</title>
-      <link>//localhost:1313/games/modemash/</link>
+      <link>/games/modemash/</link>
       <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/games/modemash/</guid>
+      <guid>/games/modemash/</guid>
       <description>An arcade-style brawler themed around the musical modes created for the 2023 Mode Jam</description>
     </item>
     <item>
       <title>🪰 No Time to Horsefly</title>
-      <link>//localhost:1313/games/notimetohorsefly/</link>
+      <link>/games/notimetohorsefly/</link>
       <pubDate>Mon, 03 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/games/notimetohorsefly/</guid>
+      <guid>/games/notimetohorsefly/</guid>
       <description>A top-down, rogue-lite, puzzle game set in the lifespan of a horsefly created for the 2022 Ludum Dare Jam</description>
     </item>
     <item>
       <title>MAD UX: Process Blog #2</title>
-      <link>//localhost:1313/blog/madux/ux-p2/</link>
+      <link>/blog/madux/ux-p2/</link>
       <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/blog/madux/ux-p2/</guid>
+      <guid>/blog/madux/ux-p2/</guid>
       <description>Over the course of the summer, these short portfolio entries describe my research process for my user experience research capstone.</description>
     </item>
     <item>
       <title>MAD UX: Process Blog #3</title>
-      <link>//localhost:1313/blog/madux/ux-p3/</link>
+      <link>/blog/madux/ux-p3/</link>
       <pubDate>Sun, 07 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/blog/madux/ux-p3/</guid>
+      <guid>/blog/madux/ux-p3/</guid>
       <description>Over the course of the summer, these short portfolio entries describe my research process for my user experience research capstone.</description>
     </item>
     <item>
       <title>MAD UX: Process Blog #4</title>
-      <link>//localhost:1313/blog/madux/ux-p4/</link>
+      <link>/blog/madux/ux-p4/</link>
       <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/blog/madux/ux-p4/</guid>
+      <guid>/blog/madux/ux-p4/</guid>
       <description>Over the course of the summer, these short portfolio entries describe my research process for my user experience research capstone.</description>
     </item>
     <item>
       <title>MAD UX: Web Accessability Interlude</title>
-      <link>//localhost:1313/blog/madux/ux-p5/</link>
+      <link>/blog/madux/ux-p5/</link>
       <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/blog/madux/ux-p5/</guid>
+      <guid>/blog/madux/ux-p5/</guid>
       <description>Over the course of the summer, these short portfolio entries describe my research process for my user experience research capstone.</description>
     </item>
     <item>
       <title>Case Study: How EarthBound Teaches Players to Play</title>
-      <link>//localhost:1313/blog/madux/madux-summer/</link>
+      <link>/blog/madux/madux-summer/</link>
       <pubDate>Sun, 18 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/blog/madux/madux-summer/</guid>
+      <guid>/blog/madux/madux-summer/</guid>
       <description>This case study examines the tutorial section of the SNES game EarthBound, highlighting key areas such as navigation and UI controls that should be refined in the fan remake MOTHER² to enhance accessibility for modern players while preserving the game&amp;#39;s unique charm. 🧑‍🔬🎮️</description>
     </item>
     <item>
       <title>MAD UX: Usability Playtest Retrospective</title>
-      <link>//localhost:1313/blog/madux/ux-p6/</link>
+      <link>/blog/madux/ux-p6/</link>
       <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/blog/madux/ux-p6/</guid>
+      <guid>/blog/madux/ux-p6/</guid>
       <description>👨‍🔬🎮️</description>
     </item>
     <item>
       <title>whoami</title>
-      <link>//localhost:1313/whoami/</link>
+      <link>/whoami/</link>
       <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/whoami/</guid>
+      <guid>/whoami/</guid>
       <description>Learn more about who I am and what I am about! 😊</description>
     </item>
     <item>
       <title>✉️ Contact</title>
-      <link>//localhost:1313/contact/</link>
+      <link>/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/contact/</guid>
+      <guid>/contact/</guid>
       <description>Reach me thorugh the following contact portal.</description>
     </item>
     <item>
       <title>📬️ Your Form Has Been Submitted!</title>
-      <link>//localhost:1313/thanks/</link>
+      <link>/thanks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/thanks/</guid>
+      <guid>/thanks/</guid>
       <description>Your form has been submited</description>
     </item>
   </channel>
