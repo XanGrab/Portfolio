@@ -18,7 +18,7 @@ params:
     profileMode:
         enabled: false
         title: 👋 Hello there! I'm Xander
-        subtitle: "(aka XanderGrab) I'm a Game Designer/Developer as well as an all-around Games Hobbyist. I'm passionate about creating transformational games, studying play, and exploring how they teach."
+        subtitle: "(aka XanderGrab) I'm a Game Designer/Developer as well as an all-around games hobbyist. I'm passionate about creating games for learning, studying playful learning experiences."
         imageUrls:
             ["assets/icons/ProfessionalPhoto.JPG", "assets/icons/FancyIcon.png"]
         imageTitle: "My Icon"
@@ -83,3 +83,4 @@ menu:
           name: "Search 🔍️"
           url: /search/
           weight: 1
+
