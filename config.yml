@@ -2,7 +2,7 @@ baseURL: ""
 languageCode: en-us
 title: XanderGrab
 theme: PaperMod
-paginate: 4
+pageSize: 4
 
 buildDrafts: true
 
@@ -83,4 +83,3 @@ menu:
           name: "Search 🔍️"
           url: /search/
           weight: 1
-
